@@ -21,6 +21,19 @@ dotfiles:
   d_wofi:
     src: config/wofi
     dst: ~/.config/wofi
+  f_zshrc:
+    src: zshrc
+    dst: ~/.zshrc
+  f_zshenv:
+    src: zshenv
+    dst: ~/.zshenv
+  f_zsh_history:
+    src: zsh_history
+    dst: ~/.zsh_history
+    chmod: '600'
+  d_plugins:
+    src: oh-my-zsh/plugins
+    dst: ~/.oh-my-zsh/plugins
 profiles:
   silva-arch:
     dotfiles:
@@ -30,3 +43,7 @@ profiles:
     - d_nvim.config
     - d_waybar
     - d_wofi
+    - f_zshrc
+    - f_zshenv
+    - f_zsh_history
+    - d_plugins

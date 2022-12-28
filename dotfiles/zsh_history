@@ -1,0 +1,1752 @@
+: 1671828328:0;clear
+: 1671828329:0;ls
+: 1671828329:0;clear
+: 1671828337:0;git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1671828339:0;clear
+: 1671828342:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1671828344:0;clear
+: 1671828348:0;nvim .zshrc
+: 1671828384:0;clear
+: 1671828385:0;exit
+: 1671828388:0;ls
+: 1671828391:0;clear
+: 1671828391:0;ls
+: 1671828392:0;clear
+: 1671828411:0;curl -sS https://starship.rs/install.sh | sh\
+
+: 1671828427:0;nvim .zshrc
+: 1671828437:0;clear
+: 1671828439:0;source .zshrc
+: 1671828440:0;clear
+: 1671828440:0;ls
+: 1671828442:0;clear
+: 1671828455:0;cd .config
+: 1671828456:0;cd hypr
+: 1671828456:0;clear
+: 1671828457:0;nvim
+: 1671828460:0;nvim hyprland.conf
+: 1671828472:0;clear
+: 1671828473:0;cd ..
+: 1671828476:0;nvim kitty/kitty.conf
+: 1671828492:0;clear
+: 1671828493:0;exit
+: 1671828494:0;ls
+: 1671828496:0;clear
+: 1671828512:0;mkdir Pictures
+: 1671828513:0;cd Pictures
+: 1671828513:0;celar
+: 1671828523:0;git clone https://gitlab.com/_silva_/Wallpapers
+: 1671828533:0;clear
+: 1671828551:0;git clone https://github.com/genius1512/Wallpapers
+: 1671828556:0;clear
+: 1671828562:0;yay -S hyprpaper
+: 1671828565:0;yay -S hyprpaper-bin
+: 1671828569:0;yay -S hyprpaper-git
+: 1671828589:0;0;9ufire
+: 1671828599:0;cd ..
+: 1671828601:0;cd .config
+: 1671828601:0;cd hypr
+: 1671828602:0;celar
+: 1671828603:0;clear
+: 1671828611:0;nvim hyprpaper.conf
+: 1671828655:0;ls Pictures/Wallpapers
+: 1671828697:0;clear
+: 1671828698:0;exit
+: 1671828704:0;hyprpaper
+: 1671828710:0;clear
+: 1671828711:0;l
+: 1671828713:0;clear
+: 1671828721:0;nvim .config/hypr/hyprpaper.conf
+: 1671828754:0;clear
+: 1671828757:0;hyprpaper
+: 1671828759:0;clear
+: 1671828760:0;ls
+: 1671828764:0;ls Pictures/Wallpapers
+: 1671828776:0;nvim .config/hypr/hyprpaper.config
+: 1671828787:0;nvim .config/hypr/hyprpaper.conf
+: 1671828801:0;clear
+: 1671828803:0;hyprpaer
+: 1671828805:0;hyprpaper
+: 1671828808:0;clear
+: 1671828816:0;xit
+: 1671828816:0;exit
+: 1671828831:0;sudo pacman -S tree
+: 1671828835:0;clear
+: 1671828839:0;sudo pacman -S cmatrix
+: 1671828845:0;cmatrix
+: 1671828850:0;clear
+: 1671828850:0;exit
+: 1671828862:0;sudo powerofff
+: 1671828867:0;sudo poweroff
+: 1671868841:0;Hyprland
+: 1671868872:0;nvim .config/hypr/hyprpaper.conf
+: 1671868892:0;clear
+: 1671868894:0;hyprpaper
+: 1671868897:0;clear
+: 1671868897:0;ls
+: 1671868899:0;clear
+: 1671868906:0;nvim .config/hypr/hyprpaper.conf
+: 1671868911:0;ls
+: 1671868914:0;cd Pictures
+: 1671868915:0;ls
+: 1671868916:0;cd Wallpapers
+: 1671868917:0;ls
+: 1671868922:0;cd ..
+: 1671868953:0;cat "$HOME/Pictures/Wallpapers/Blue Valley With Sunset.jpg"
+: 1671868955:0;clear
+: 1671868957:0;qclear
+: 1671868964:0;killall kitty
+: 1671868982:0;nvim .config/hypr/hyprpaper.conf
+: 1671869001:0;hyprpaper
+: 1671869003:0;clear
+: 1671869005:0;nvim .config/hypr/hypr
+: 1671869008:0;nvim .config/hypr/hyprpaper.conf
+: 1671869015:0;clear
+: 1671869019:0;hyprpaper
+: 1671869020:0;clear
+: 1671869080:0;nvim .config/hypr/hyprpaper.conf
+: 1671869087:0;hyprpaper
+: 1671869088:0;clear
+: 1671869091:0;nvim .config/hypr/hyprpaper.conf
+: 1671869098:0;clear
+: 1671869102:0;hyprpaper
+: 1671869106:0;clear
+: 1671869106:0;ls
+: 1671869107:0;clear
+: 1671869108:0;cd Pictures
+: 1671869109:0;ls
+: 1671869111:0;cd Wallpapers
+: 1671869112:0;ls
+: 1671869124:0;mv "Blue Valley With Sunset.jpg" Valley.jpg
+: 1671869125:0;cd ..
+: 1671869126:0;clear
+: 1671869129:0;nvim .config/hypr/hypr
+: 1671869132:0;nvim .config/hypr/hyprpaper.conf
+: 1671869143:0;cd Pictures
+: 1671869144:0;cd Wallpapers
+: 1671869145:0;clear
+: 1671869154:0;mv Valley.jpg "Blue Valley With Sunset.jpg"
+: 1671869155:0;clear
+: 1671869157:0;hyprpaper
+: 1671869159:0;clear
+: 1671869159:0;ls
+: 1671869169:0;mv Blue\ Valley\ With\ Sunset.jpg Valley.jpg
+: 1671869170:0;clear
+: 1671869177:0;nvim ~/.config/hypr/hyprpaper.conf
+: 1671869187:0;clear
+: 1671869188:0;hyprpaper
+: 1671869191:0;clear
+: 1671869225:0;ls
+: 1671869230:0;cd ..
+: 1671869231:0;clear
+: 1671869236:0;nvim .config/hypr/hyprpaper.conf
+: 1671869256:0;clear
+: 1671869259:0;hyprpaper
+: 1671869261:0;clear
+: 1671869273:0;cp Pictures/Wallpapers/Valley.jpg .
+: 1671869274:0;clear
+: 1671869278:0;nvim .config/hypr/hyprpaper.conf
+: 1671869288:0;clear
+: 1671869291:0;hyprpaper
+: 1671869294:0;clear
+: 1671869297:0;nvim .config/hypr/hyprpaper.conf
+: 1671869312:0;hyprpaper
+: 1671869318:0;clear
+: 1671869323:0;nvim .config/hypr/hyprpaper.conf
+: 1671869333:0;hyprpaper
+: 1671869339:0;clear
+: 1671869340:0;ls
+: 1671869349:0;nvim .config/hypr/hyprpaper.conf
+: 1671869363:0;hyprpaper
+: 1671869367:0;nvim .config/hypr/hyprpaper.conf
+: 1671869377:0;clear
+: 1671869379:0;hyprpaper
+: 1671869381:0;clear
+: 1671869386:0;ls Pictures/Wallpapers
+: 1671869457:0;cp Downloads/dark.jpg Pictures/Wallpapers
+: 1671869457:0;clear
+: 1671869462:0;nvim .config/hypr/hyprpaper.conf
+: 1671869475:0;clear
+: 1671869477:0;hyprpaper
+: 1671869481:0;clear
+: 1671869486:0;nvim .config/hypr/hyprland.conf
+: 1671869503:0;clear
+: 1671869506:0;sudo reboot
+: 1671869549:0;clear
+: 1671869552:0;Hyprland
+: 1671869561:0;clear
+: 1671869562:0;exit
+: 1671869568:0;nvim .config/hypr/hyprland.conf
+: 1671869571:0;exit
+: 1671869590:0;clera
+: 1671869591:0;clear
+: 1671869594:0;exit
+: 1671869629:0;sudo pacman -S unzip zip
+: 1671869634:0;clear
+: 1671869637:0;cd Downloads
+: 1671869637:0;clear
+: 1671869637:0;ls
+: 1671869641:0;unzip FiraCode.zip
+: 1671869642:0;clear
+: 1671869642:0;ls
+: 1671869654:0;cp Fira* ../.fonts
+: 1671869656:0;mkdir ../.fonts
+: 1671869657:0;cp Fira* ../.fonts
+: 1671869659:0;cd ..
+: 1671869661:0;cd .fonts
+: 1671869661:0;ls
+: 1671869666:0;rm FiraCode.zip
+: 1671869667:0;clear
+: 1671869667:0;ls
+: 1671869679:0;exit
+: 1671869686:0;nvim .config/kitty/kitty.conf
+: 1671869701:0;clear
+: 1671869701:0;exit
+: 1671869708:0;ls
+: 1671869709:0;clear
+: 1671869714:0;nvim .config/kitty/kitty.conf
+: 1671869726:0;exit
+: 1671869736:0;ls
+: 1671869736:0;clear
+: 1671869739:0;rm Valley.jpg
+: 1671869740:0;clear
+: 1671869740:0;ls
+: 1671869741:0;clear
+: 1671869767:0;git clone --depth=1 https://github.com/NTBBloodbath/cheovim ~/.config/nvim
+: 1671869769:0;clear
+: 1671869770:0;cd .config
+: 1671869771:0;cd nvim
+: 1671869772:0;clear
+: 1671869772:0;ls
+: 1671869774:0;nvim profiles.lua
+: 1671869818:0;clear
+: 1671869822:0;nvim p
+: 1671869826:0;nvim profiles.lua
+: 1671869832:0;clear
+: 1671869834:0;cd ..
+: 1671869836:0;mkdir nvim.config
+: 1671869838:0;cd nvim
+: 1671869839:0;clear
+: 1671869839:0;ls
+: 1671869841:0;cd ..
+: 1671869843:0;cd nvim.config
+: 1671869844:0;clear
+: 1671869844:0;ls
+: 1671869845:0;clear
+: 1671869847:0;mkdir no_config
+: 1671869853:0;touch no_config/init.lua
+: 1671869853:0;clear
+: 1671869854:0;nvim
+: 1671869856:0;cd ..
+: 1671869858:0;clear
+: 1671869897:0;sudo pacman -S hyprpicker-git
+: 1671869910:0;yay -S hyprpicker-git
+: 1671869930:0;sclear
+: 1671869931:0;clear
+: 1671869933:0;hyprpicker
+: 1671869943:0;0A32AA
+: 1671869948:0;nvim .config/hypr/hyprland.conf
+: 1671870049:0;clear
+: 1671870066:0;mv ~/.local/share/nvim ~/.local/share/nvim.bak\
+mv ~/.local/state/nvim ~/.local/state/nvim.bak\
+mv ~/.cache/nvim ~/.cache/nvim.bak
+: 1671870068:0;clear
+: 1671870081:0;git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim.config/astronvim\
+nvim
+: 1671870089:0;clear
+: 1671870089:0;ls
+: 1671870090:0;cd .config
+: 1671870092:0;cd nvim
+: 1671870094:0;nvim profiles.lua
+: 1671881566:0;Hyprland
+: 1671881572:0;clear
+: 1671881572:0;ls
+: 1671881573:0;clear
+: 1671881576:0;nvim .config/kitty/kitty.conf
+: 1671881583:0;clear
+: 1671881587:0;ls
+: 1671881588:0;clear
+: 1671881589:0;cd .config
+: 1671881590:0;clear
+: 1671881590:0;ls
+: 1671881594:0;cd nvim.config
+: 1671881594:0;ls
+: 1671881596:0;cd ..
+: 1671881604:0;nvim nvim/profiles.lua
+: 1671881655:0;clear
+: 1671881657:0;nvim
+: 1671881667:0;nvim nvim/profiles.lua
+: 1671881681:0;clear
+: 1671881683:0;nvim
+: 1671881694:0;clear
+: 1671881694:0;ls
+: 1671881701:0;nvim
+: 1671881719:0;clear
+: 1671881725:0;mv nvim.config/astronvim ..
+: 1671881727:0;clear
+: 1671881727:0;ls
+: 1671881731:0;mv nvim nvim_bak
+: 1671881743:0;mv ../astronvim nvim
+: 1671881744:0;clear
+: 1671881745:0;nvim
+: 1671881753:0;ls
+: 1671881763:0;mv nvim nvim.config/astronvim
+: 1671881767:0;mv nvim_bak nvim
+: 1671881768:0;clear
+: 1671881768:0;nvim
+: 1671881775:0;ls
+: 1671881777:0;cd nvim.config
+: 1671881777:0;ls
+: 1671881779:0;cd astronvim
+: 1671881779:0;ls
+: 1671881781:0;cd ..
+: 1671881783:0;ls
+: 1671881784:0;cd ..
+: 1671881785:0;cd .local
+: 1671881786:0;ls
+: 1671881788:0;cd share
+: 1671881788:0;ls
+: 1671881790:0;cd nvim
+: 1671881790:0;ls
+: 1671881792:0;cd site
+: 1671881792:0;ls
+: 1671881794:0;cd pack
+: 1671881794:0;ls
+: 1671881801:0;mv packer astro
+: 1671881802:0;clear
+: 1671881803:0;cd ..
+: 1671881807:0;cd .config
+: 1671881810:0;nvim nvim/profiles.lua
+: 1671881819:0;clear
+: 1671881890:0;ls
+: 1671881891:0;cd nvim.config
+: 1671881892:0;ls
+: 1671881893:0;cd astronvim
+: 1671881893:0;clear
+: 1671881893:0;ls
+: 1671881895:0;cd lua
+: 1671881895:0;ls
+: 1671881899:0;cp user_example user
+: 1671881903:0;cp -r user_example user
+: 1671881904:0;clear
+: 1671881905:0;cd user
+: 1671881905:0;clear
+: 1671881907:0;nvim init.lua
+: 1671881962:0;clear
+: 1671881963:0;nvim
+: 1671881998:0;clear
+: 1671881998:0;ls
+: 1671882000:0;clear
+: 1671882001:0;cd ..
+: 1671882003:0;clear
+: 1671882003:0;ls
+: 1671882004:0;clear
+: 1671882006:0;nvim
+: 1671882034:0;ls
+: 1671882035:0;cd lua
+: 1671882037:0;cd user
+: 1671882037:0;ls
+: 1671882040:0;nvim init.lua
+: 1671882073:0;clear
+: 1671882075:0;nvim
+: 1671882087:0;clear
+: 1671882087:0;ls
+: 1671882088:0;cd ..
+: 1671882089:0;clear
+: 1671882097:0;ls
+: 1671882098:0;cd ..
+: 1671882099:0;clear
+: 1671882099:0;ls
+: 1671882108:0;cd ..
+: 1671882109:0;cd nvim
+: 1671882109:0;clear
+: 1671882110:0;ls
+: 1671882111:0;clear
+: 1671882115:0;nvim profiles.lua
+: 1671882235:0;clear
+: 1671882245:0;NVIM_CONFIG_NO_CONFIG=1 nvim
+: 1671882250:0;NVIM_CONf_NO_CONFIG=1 nvim
+: 1671882255:0;nvim profiles.lua
+: 1671882267:0;NVIM_CONf_NO_CONFIG=1 nvim
+: 1671882273:0;NVIM_CONF_NO_CONFIG=1 nvim
+: 1671882276:0;clear
+: 1671882279:0;nvim profiles.lua
+: 1671882310:0;clear
+: 1671882310:0;ls
+: 1671882311:0;cd ..
+: 1671882312:0;ls
+: 1671882313:0;cd nvim.config
+: 1671882314:0;clear
+: 1671882314:0;ls
+: 1671882317:0;mkdir own
+: 1671882322:0;touch own/init.lua
+: 1671882322:0;clear
+: 1671882323:0;cd ..
+: 1671882326:0;nvim nvim/profiles.lua
+: 1671882382:0;clear
+: 1671882388:0;NVIM_CONF_OWN=1 nvim
+: 1671882389:0;clear
+: 1671882390:0;ls
+: 1671882394:0;clear
+: 1671882399:0;ls
+: 1671882400:0;clear
+: 1671882418:0;nvim nvim.config/astronvim/lua/user/init.lua
+: 1671882535:0;clear
+: 1671882547:0;wget sh.rustup.rs
+: 1671882549:0;clear
+: 1671882549:0;ls
+: 1671882551:0;rm index.html
+: 1671882552:0;clear
+: 1671882565:0;curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+: 1671882595:0;source "$HOME/.cargo/env"
+: 1671882596:0;clear
+: 1671882608:0;cargo --hlep
+: 1671886447:0;clear
+: 1671886447:0;ls
+: 1671886448:0;clear
+: 1671886453:0;exit
+: 1671886488:0;ls
+: 1671886493:0;mv wofi .config
+: 1671886494:0;clear
+: 1671886500:0;cd .config
+: 1671886501:0;ls
+: 1671886503:0;cd wofi
+: 1671886503:0;clera
+: 1671886503:0;ls
+: 1671886505:0;clear
+: 1671886507:0;nvim style.css
+: 1671886565:0;clear
+: 1671886565:0;ls
+: 1671886566:0;clear
+: 1671886567:0;cd ..
+: 1671886567:0;clear
+: 1671886567:0;ls
+: 1671886568:0;clear
+: 1671886569:0;exit
+: 1671886576:0;sudo poweroff
+: 1671886931:0;clear
+: 1671886933:0;hyprctl
+: 1671886934:0;clear
+: 1671886935:0;Hyprctl
+: 1671886939:0;Hyprland
+: 1671886941:0;exit
+: 1671887108:0;ls
+: 1671887111:0;clear
+: 1671887112:0;ll
+: 1671887114:0;clear
+: 1671887117:0;cargo install lsd
+: 1671887122:0;clear
+: 1671887124:0;cargo install ld
+: 1671887128:0;clear
+: 1671887149:0;yay -S lazygit
+: 1671887155:0;clear
+: 1671887159:0;cargo install ripgrep
+: 1671887204:0;exit
+: 1671887216:0;clear
+: 1671887224:0;ls
+: 1671887225:0;clear
+: 1671887226:0;rg
+: 1671887231:0;rg "main"
+: 1671887234:0;clear
+: 1671887234:0;ls
+: 1671887235:0;clear
+: 1671889483:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671889702:0;clear
+: 1671889703:0;nvim
+: 1671889708:0;clear
+: 1671889717:0;nvim .config/nvim.config/astronvim/lua/useri
+: 1671889721:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671889748:0;clear
+: 1671889748:0;nvim
+: 1671889774:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671889786:0;clear
+: 1671889787:0;exit
+: 1671890046:0;0;9ufire
+: 1671890221:0;cd Pictures
+: 1671890222:0;cd Wallpapers
+: 1671890224:0;clear
+: 1671890225:0;wget https://github.com/catppuccin/wallpapers/raw/main/minimalistic/blue-cat.png
+: 1671890233:0;mv blue-cat.png "Blue Cat.png"
+: 1671890234:0;clear
+: 1671890235:0;cd ..
+: 1671890235:0;clear
+: 1671890236:0;cd ..
+: 1671890236:0;clear
+: 1671890240:0;nvim .config/hypr/hyprpaper.conf
+: 1671890264:0;clear
+: 1671890268:0;nvim .config/hypr/hyprpaper.conf
+: 1671890275:0;clear
+: 1671890278:0;hyprpaper
+: 1671890283:0;clear
+: 1671890292:0;killall Hyprland
+: 1671890295:0;Hyprland
+: 1671890304:0;hyprpicker
+: 1671890352:0;clea
+: 1671890354:0;clear
+: 1671890355:0;ls
+: 1671890356:0;clear
+: 1671890362:0;nvim .config/hypr/hyprland.conf
+: 1671890371:0;clear
+: 1671890384:0;exit
+: 1671890416:0;cd Pictures/Wallpapers
+: 1671890416:0;clear
+: 1671890428:0;wget 'https://github.com/catppuccin/wallpapers/blob/main/minimalistic/gradient-synth-cat.png?raw=true' -o "Gradient Synth Cat.png"
+: 1671890431:0;clear
+: 1671890431:0;ls
+: 1671890440:0;rm gradient-synth-cat.png\?raw=true
+: 1671890449:0;clear
+: 1671890457:0;nvim ~/.config/hypr/hyprpaper.conf
+: 1671890467:0;clear
+: 1671890468:0;hyprpaper
+: 1671890474:0;clear
+: 1671890476:0;reboot
+: 1671890510:0;clear
+: 1671890511:0;Hyprland
+: 1671890518:0;nvim .config/hypr/hyprpaper.conf
+: 1671890528:0;cd Pictures/Wallpapers
+: 1671890528:0;clear
+: 1671890529:0;ls
+: 1671890531:0;rm Gradient\ Synth\ Cat.png
+: 1671890531:0;clear
+: 1671890525:0;wget 'https://github.com/catppuccin/wallpapers/blob/main/minimalistic/gradient-synth-cat.png?raw=true'
+: 1671890530:0;rm gradient-synth-cat.png\?raw=true
+: 1671890530:0;clear
+: 1671890547:0;ls
+: 1671890550:0;wget 
+: 1671890585:0;wget https://github.com/catppuccin/wallpapers/raw/main/minimalistic/gradient-synth-cat.png
+: 1671890586:0;clear
+: 1671890597:0;mv gradient-synth-cat.png "Gradient Synth Cat.png"
+: 1671890598:0;clear
+: 1671890599:0;hyprpaer
+: 1671890603:0;hyprpaper
+: 1671890611:0;nvim
+: 1671890616:0;clear
+: 1671890617:0;exit
+: 1671890619:0;clear
+: 1671890696:0;cd ..
+: 1671890697:0;clear
+: 1671890701:0;nvim theme
+: 1671890713:0;clear
+: 1671890743:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671890768:0;clear
+: 1671890769:0;nvim
+: 1671890796:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671890902:0;clear
+: 1671890903:0;nvim
+: 1671890920:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671890939:0;clear
+: 1671890941:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671891008:0;clear
+: 1671891008:0;nvim
+: 1671891034:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671891079:0;clear
+: 1671891079:0;nvim
+: 1671891096:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671891118:0;clear
+: 1671891119:0;nvim
+: 1671891121:0;clear
+: 1671891123:0;nvim
+: 1671891161:0;clear
+: 1671891167:0;nvim .config/hypr/hyprpaper.conf
+: 1671891169:0;clear
+: 1671891172:0;killall Hyprland
+: 1671891175:0;Hyprland
+: 1671891180:0;clear
+: 1671891180:0;ls
+: 1671891181:0;clear
+: 1671891187:0;hyprpicker
+: 1671891204:0;nvim .config/hypr/hyprland.conf
+: 1671891219:0;clear
+: 1671891222:0;exit
+: 1671891395:0;sudo poweroff
+: 1671891400:0;clear
+: 1671891430:0;yay -S waybar-git
+: 1671891444:0;clear
+: 1671891484:0;unzip Downloads/waybar-1.0.zip
+: 1671891487:0;clear
+: 1671891488:0;cd .config
+: 1671891489:0;ls
+: 1671891498:0;exit
+: 1671891608:0;cd .config
+: 1671891608:0;clear
+: 1671891609:0;ls
+: 1671891611:0;mkdir waybar
+: 1671891613:0;cd waybar
+: 1671891614:0;clear
+: 1671891706:0;ls
+: 1671891728:0;wget
+: 1671891731:0;wget https://raw.githubusercontent.com/theCode-Breaker/riverwm/main/waybar/river/config-river
+: 1671891736:0;mv config-river config
+: 1671891737:0;clear
+: 1671891749:0;wget https://raw.githubusercontent.com/theCode-Breaker/riverwm/main/waybar/river/river_style.css
+: 1671891753:0;mv river_style.css style.cs
+: 1671891757:0;mv style.cs style.css
+: 1671891758:0;clear
+: 1671891761:0;nvim config
+: 1671891778:0;clear
+: 1671891780:0;waybar
+: 1671891783:0;clear
+: 1671891788:0;yay -S waybar-git
+: 1671891804:0;sudo pacman -Syu
+: 1671891806:0;clear
+: 1671891807:0;sudo pacman -Syu
+: 1671891811:0;yay -S waybar-git
+: 1671891952:0;waybar
+: 1671891960:0;clear
+: 1671892042:0;nvim config
+: 1671892100:0;clear
+: 1671892101:0;waybar
+: 1671892116:0;clear
+: 1671892159:0;cd ..
+: 1671892160:0;clear
+: 1671892164:0;cd hypr
+: 1671892164:0;clear
+: 1671892167:0;nvim hyprland.conf
+: 1671892220:0;clear
+: 1671892221:0;ls
+: 1671892223:0;mkdir scripts
+: 1671892224:0;clear
+: 1671892226:0;cd scripts
+: 1671892227:0;clear
+: 1671892236:0;nvim toggle_waybar.sh
+: 1671892251:0;celar
+: 1671892253:0;clear
+: 1671892259:0;cd ..
+: 1671892259:0;clear
+: 1671892261:0;nvim
+: 1671892266:0;clear
+: 1671892268:0;nvim
+: 1671892300:0;clear
+: 1671892308:0;rm -rf scripts
+: 1671892308:0;clear
+: 1671892320:0;exit
+: 1671892331:0;ls
+: 1671892332:0;clear
+: 1671892333:0;rm theme
+: 1671892334:0;ls
+: 1671892337:0;rm -rf waybar-1.0
+: 1671892337:0;clear
+: 1671892337:0;ls
+: 1671892343:0;sudo pacman -S tree
+: 1671892347:0;clear
+: 1671892348:0;tree
+: 1671892350:0;clear
+: 1671896565:0;mkdir dev
+: 1671896566:0;cd dev
+: 1671896566:0;clear
+: 1671896566:0;ls
+: 1671896571:0;cargo new script_lang
+: 1671896572:0;clear
+: 1671896574:0;rm -rf script_lang
+: 1671896575:0;clear
+: 1671896589:0;cargo new cscript
+: 1671896591:0;cd cscript
+: 1671896591:0;clear
+: 1671896596:0;git add --all
+: 1671896601:0;git commit -m "Init"
+: 1671896612:0;git config --global user.email "silvan.genius@gmail.com"
+: 1671896621:0;git config --global user.name "Silvan Schmidt"
+: 1671896623:0;git commit -m "Init"
+: 1671896625:0;clear
+: 1671896627:0;git branch -m main
+: 1671896628:0;clear
+: 1671896638:0;git config --global init.defaultBranch main
+: 1671896639:0;clear
+: 1671896643:0;nvim clear
+: 1671896652:0;clear
+: 1671896653:0;ls
+: 1671896653:0;clear
+: 1671896656:0;touch src/lib.rs
+: 1671896657:0;clear
+: 1671896657:0;nvim
+: 1671896719:0;clear
+: 1671896720:0;exit
+: 1671896728:0;cd dev
+: 1671896728:0;ls
+: 1671896729:0;cd cscript
+: 1671896730:0;clear
+: 1671896732:0;nvi
+: 1671896734:0;nvim
+: 1671897142:0;clear
+: 1671897152:0;nvim ~/.config/kitty/kitty.conf
+: 1671897229:0;clear
+: 1671897231:0;nvim
+: 1671897419:0;clear
+: 1671897420:0;ext
+: 1671897421:0;exit
+: 1671897429:0;sudo poweroff
+: 1671955697:0;Hyprland
+: 1671955725:0;curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh\
+
+: 1671955782:0;nvim .config/nvim.config/astronvim/lua/user/init.lua
+: 1671955843:0;clear
+: 1671955844:0;nvim
+: 1671955853:0;clear
+: 1671955913:0;cd dev
+: 1671955913:0;clear
+: 1671955918:0;mkdir learn_arduino
+: 1671955919:0;cd learn_arduino
+: 1671955920:0;clear
+: 1671955924:0;nvim hello_world.ino
+: 1671955946:0;exit
+: 1671955950:0;cd dev
+: 1671955951:0;cd learn_arduino
+: 1671955952:0;clear
+: 1671955958:0;nvim hello_world.ino
+: 1671955988:0;clear
+: 1671955991:0;nvim hello_world.ino
+: 1671956234:0;arduino-cli
+: 1671956259:0;nvim ~/.zshrc
+: 1671956294:0;curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh\
+
+: 1671956301:0;ls
+: 1671956304:0;rm -rf bin
+: 1671956307:0;clear
+: 1671956307:0;cd ..
+: 1671956309:0;ls
+: 1671956310:0;cd .local
+: 1671956311:0;cd bin
+: 1671956311:0;ls
+: 1671956314:0;mkdir bin
+: 1671956315:0;cd bin
+: 1671956315:0;ls
+: 1671956316:0;clear
+: 1671956317:0;curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh\
+
+: 1671956324:0;ls
+: 1671956326:0;cd bin
+: 1671956326:0;ls
+: 1671956329:0;mv arduino-cli ..
+: 1671956330:0;cd ..
+: 1671956332:0;rmdir bin
+: 1671956333:0;clear
+: 1671956333:0;cd ..
+: 1671956336:0;source .zshrc
+: 1671956340:0;arduino-cli
+: 1671956341:0;clear
+: 1671956343:0;cd dev
+: 1671956343:0;ls
+: 1671956345:0;cd learn_arduino
+: 1671956345:0;clear
+: 1671956346:0;nvim hello_world.ino
+: 1671956363:0;nvim ~/.config/nvim.config/astronvim/lua/user/init.lua
+: 1671956387:0;nvim hello_world.ino
+: 1671956531:0;clear
+: 1671956540:0;nvim ~/.config/nvim.config/astronvim/lua/user/init.lua
+: 1671956585:0;clear
+: 1671956586:0;nvim ~/.config/nvim.config/astronvim/lua/user/init.lua
+: 1671956610:0;clear
+: 1671956618:0;arduino-cli --help
+: 1671956670:0;clear
+: 1671956671:0;arduino-cli core update-index
+: 1671956674:0;clear
+: 1671956678:0;arduino-cli board list
+: 1671956726:0;arduino-cli core install arduino:avr
+: 1671956749:0;arduino-cli core list
+: 1671956778:0;clear
+: 1671956788:0;arduino-cli board list
+: 1671956813:0;arduino-cli compile --fqbn arduino:avr:uno hello_world
+: 1671956819:0;arduino-cli compile --fqbn arduino:avr:uno hello_world.ino
+: 1671956823:0;ls
+: 1671956829:0;rm hello_world.ino
+: 1671956829:0;clear
+: 1671956849:0;arduino-cli sketch new HelloWorld
+: 1671956850:0;ls
+: 1671956852:0;cd HelloWorld
+: 1671956853:0;ls
+: 1671956855:0;cd ..
+: 1671956855:0;clear
+: 1671956862:0;nvim
+: 1671956940:0;clear
+: 1671956945:0;ls
+: 1671956960:0;arduino-cli compile --fqbn arduino:avr:uno HelloWorld
+: 1671956979:0;arduino-cli board list
+: 1671956981:0;ls
+: 1671956983:0;ls HelloWorld
+: 1671957028:0;arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorld
+: 1671957033:0;sudo arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorld
+: 1671957052:0;arduino-cli core install arduino:avr
+: 1671957096:0;clear
+: 1671957149:0;sudo chown silva /dev
+: 1671957151:0;clear
+: 1671957157:0;arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorld
+: 1671957252:0;sudo usermod -a -G tty silva
+: 1671957255:0;arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorld
+: 1671957274:0;sudo usermod -a -G audio silva
+: 1671957277:0;sudo usermod -a -G disk silva
+: 1671957282:0;sudo usermod -a -G video silva
+: 1671957283:0;clear
+: 1671957284:0;exit
+: 1671957290:0;reboot
+: 1671957324:0;Hyprland
+: 1671957327:0;cd dev
+: 1671957331:0;cd learn_arduino/q
+: 1671957333:0;clear
+: 1671957370:0;arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorld
+: 1671957374:0;ls
+: 1671957375:0;cd learn_arduino
+: 1671957375:0;clear
+: 1671957377:0;arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorld
+: 1671957396:0;arduino-cli compile --fqbn arduino:avr:uno HelloWorld
+: 1671957399:0;arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorld
+: 1671957435:0;sudo usermod -a -G dialout silva
+: 1671957536:0;sudo usermod -a -G uucp silva
+: 1671957537:0;clear
+: 1671957541:0;killall Hyprland
+: 1671957546:0;exit
+: 1671957550:0;clear
+: 1671957552:0;Hyprland
+: 1671957555:0;cd dev
+: 1671957556:0;cd learn_arduino
+: 1671957557:0;celar
+: 1671957558:0;clear
+: 1671957569:0;arduino-cli compile --fqbn arduino:avr:uno HelloWorld
+: 1671957595:0;arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorld
+: 1671957825:0;clear
+: 1671957825:0;ls
+: 1671957850:0;nvim run.sh
+: 1671957878:0;clear
+: 1671957881:0;eit
+: 1671957882:0;clear
+: 1671957883:0;exit
+: 1671957889:0;sudo pacman -S tmux
+: 1671957894:0;clear
+: 1671957895:0;tmux
+: 1671957902:0;clear
+: 1671957910:0;chmod +x ./run.sh
+: 1671957911:0;clear
+: 1671957913:0;nvim
+: 1671957941:0;./run
+: 1671957945:0;./run.sh
+: 1671957986:0;arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno HelloWorldclear
+: 1671957987:0;clear
+: 1671957990:0;./run.sh
+: 1671957994:0;clear
+: 1671958040:0;nvim ~/.config/nvim.config/astronvim/lua/user/init.lua
+: 1671958068:0;clear
+: 1671958068:0;nvim
+: 1671958076:0;clear
+: 1671958077:0;nvim
+: 1671958087:0;clear
+: 1671958090:0;nvim
+: 1671958160:0;clear
+: 1671958160:0;nvim
+: 1671958262:0;clear
+: 1671958263:0;nvim
+: 1671958303:0;sudo pacman -S clangd
+: 1671958311:0;yay -S clangd
+: 1671958315:0;clear
+: 1671958435:0;nvim
+: 1671958551:0;ls
+: 1671958552:0;arduino-cli config init
+: 1671958553:0;ls
+: 1671958567:0;nvim /home/silva/.arduino15/arduino-cli.yaml
+: 1671958578:0;clear
+: 1671958600:0;nvim
+: 1671958656:0;sudo pacman -S clang
+: 1671958665:0;clear
+: 1671958669:0;nvim
+: 1671958895:0;./run.sh
+: 1671958905:0;clear
+: 1671959056:0;./run.sh
+: 1671959062:0;clear
+: 1671959066:0;nvim
+: 1671959086:0;FQBN=arduino:avr:uno nvim
+: 1671959108:0;clear
+: 1671959109:0;nvim
+: 1671959123:0;clear
+: 1671959124:0;exit
+: 1671959129:0;sudo poweroff
+: 1671963774:0;clear
+: 1671963775:0;Hyprland
+: 1671966720:0;ls
+: 1671966722:0;cd dev
+: 1671966723:0;clear
+: 1671966723:0;ls
+: 1671966725:0;cd learn_arduino
+: 1671966725:0;clear
+: 1671966726:0;nvim run.sh
+: 1671966736:0;clear
+: 1671966744:0;./run.sh HelloWorld
+: 1671966756:0;clear
+: 1671966764:0;arduino-cli sketch new Toggle
+: 1671966765:0;clear
+: 1671966770:0;tmux
+: 1671966777:0;nvim
+: 1671966928:0;./run.sh Toggle
+: 1671967051:0;clear
+: 1671967062:0;./run.sh Toggle
+: 1671967120:0;clear
+: 1671967243:0;./run.sh Toggle
+: 1671967307:0;clear
+: 1671967309:0;./run.sh Toggle
+: 1671967589:0;./run.sh HelloWorld
+: 1671967644:0;./run.sh Toggle
+: 1671967847:0;arduino-cli sketch new Reset
+: 1671967850:0;clear
+: 1671967872:0;ls
+: 1671967875:0;rm -rf Reset
+: 1671967875:0;clear
+: 1671967876:0;nvim
+: 1671967987:0;./run.sh Toggle
+: 1671968027:0;clear
+: 1671968096:0;./run.sh Toggle
+: 1671968114:0;./run.sh HelloWorld
+: 1671968152:0;clear
+: 1671968162:0;./run.sh HelloWorld
+: 1671968195:0;./run.sh Toggle
+: 1671968382:0;clear
+: 1671968521:0;./run.sh Toggle
+: 1671968800:0;clear
+: 1671968801:0;nvim
+: 1671968864:0;./run.sh Toggle
+: 1671969127:0;arduino-cli
+: 1671979963:0;clear
+: 1671980819:0;Hyprland
+: 1671980822:0;cd dev
+: 1671980824:0;cd learn_arduino
+: 1671980824:0;clear
+: 1671980832:0;arduino-cli sketch new Lcd
+: 1671980836:0;nvim
+: 1671980823:0;clear
+: 1671980826:0;tmux
+: 1671980834:0;nvim
+: 1671980890:0;arduino-cli lib search Liquid
+: 1671980897:0;clear
+: 1671980900:0;arduino-cli lib search Liquid | less
+: 1671981016:0;arduino-cli lib install LiquidCrystal
+: 1671981019:0;clear
+: 1671981023:0;nvim
+: 1671981199:0;./run.sh Lcd
+: 1671981216:0;clear
+: 1671981341:0;./run.sh Lcd
+: 1671981370:0;clear
+: 1671981383:0;./run.sh Lcd
+: 1671981402:0;clear
+: 1671981531:0;nvim
+: 1671981558:0;arduino-cli lib install Time
+: 1671981560:0;clear
+: 1671981565:0;nvim
+: 1671981601:0;clear
+: 1671981609:0;./run.sh Lcd
+: 1671981615:0;clear
+: 1671981617:0;nvim
+: 1671981626:0;clear
+: 1671981628:0;./run.sh Lcd
+: 1671981634:0;nvim
+: 1671981641:0;./run.sh Lcd
+: 1671981674:0;clear
+: 1671981678:0;arduino-cli lib list
+: 1671981690:0;echo $LIBRARY_LOCATION_USER
+: 1671981691:0;clear
+: 1671981804:0;./run.sh Lcd
+: 1671981809:0;clear
+: 1671981861:0;ls ~
+: 1671981866:0;ls ~/Arduino/libraries
+: 1671981870:0;ls ~/Arduino/libraries/Time
+: 1671981877:0;ls ~/Arduino/libraries/LiquidCrystal
+: 1671981880:0;ls ~/Arduino/libraries/LiquidCrystal/src
+: 1671981885:0;ls ~/Arduino/libraries/Time
+: 1671981902:0;./run.sh Lcd
+: 1671982319:0;clear
+: 1671982373:0;./run.sh Lcd
+: 1671996428:0;clear
+: 1672053764:0;./run.sh Lcd
+: 1672053860:0;clear
+: 1672053864:0;ls
+: 1672053870:0;cp Lcd ChessClock
+: 1672053873:0;cp -r Lcd ChessClock
+: 1672053874:0;clear
+: 1672053875:0;nvim
+: 1672053878:0;cd ChessClock
+: 1672053879:0;ls
+: 1672053884:0;mv Lcd.ino ChessClock.ino
+: 1672053885:0;clear
+: 1672053885:0;cd ..
+: 1672053886:0;clear
+: 1672053887:0;nvim
+: 1672053894:0;./run.sh ChessClock
+: 1672053898:0;clear
+: 1672053914:0;./run.sh ChessClock
+: 1672053918:0;clear
+: 1672054096:0;./run.sh ChessClock
+: 1672054105:0;clear
+: 1672054164:0;./run.sh ChessClock
+: 1672054171:0;clear
+: 1672054179:0;./run.sh ChessClock
+: 1672054186:0;clear
+: 1672054196:0;./run.sh ChessClock
+: 1672054203:0;clear
+: 1672057921:0;./run.sh ChessClock
+: 1672057926:0;clear
+: 1672057932:0;./run.sh ChessClock
+: 1672079674:0;clear
+: 1672079674:0;ls
+: 1672079675:0;clear
+: 1672081932:0;./run.sh ChessClock
+: 1672085313:0;clear
+: 1672085314:0;./run.sh ChessClock
+: 1672085328:0;clear
+: 1672085332:0;./run.sh ChessClock
+: 1672085350:0;clear
+: 1672085361:0;./run.sh ChessClock
+: 1672085609:0;clear
+: 1672085632:0;./run.sh ChessClock
+: 1672086269:0;clear
+: 1672086270:0;exit
+: 1672086278:0;sudo poweroff
+: 1672124437:0;Hyprland
+: 1672124441:0;nmtui
+: 1672124479:0;clear
+: 1672124482:0;ping google.com
+: 1672124467:0;clear
+: 1672124477:0;cd .co
+: 1672124478:0;cd .config
+: 1672124487:0;ls
+: 1672124496:0;cd hypr
+: 1672124497:0;clear
+: 1672124497:0;ls
+: 1672124498:0;clear
+: 1672124498:0;nvim
+: 1672124530:0;mkdir scripts
+: 1672124531:0;cd scripts
+: 1672124532:0;clear
+: 1672124532:0;ls
+: 1672124540:0;nvim toggle_waybar.sh
+: 1672124554:0;chmod +x toggle_waybar.sh
+: 1672124555:0;clear
+: 1672124556:0;nvim
+: 1672124619:0;touch BAR_STATUS
+: 1672124620:0;clear
+: 1672124620:0;nvim
+: 1672124660:0;echo "on" > BAR_STATUS
+: 1672124661:0;nvim
+: 1672124674:0;echo "off" > BAR_STATUS
+: 1672124676:0;clear
+: 1672124677:0;nvim
+: 1672124697:0;clear
+: 1672124704:0;ls
+: 1672124706:0;clear
+: 1672124712:0;killall waybar
+: 1672124713:0;clear
+: 1672129678:0;ls
+: 1672129680:0;clear
+: 1672129707:0;waybar
+: 1672129714:0;clear
+: 1672129723:0;pgrep "waybar"
+: 1672129728:0;killall waybar
+: 1672129729:0;clear
+: 1672129756:0;nvim
+: 1672129858:0;clear
+: 1672129862:0;nvim
+: 1672129871:0;pgrep -n waybar
+: 1672129880:0;pgrep waybar
+: 1672129915:0;nvim
+: 1672130033:0;clear
+: 1672130035:0;./toggle_waybar.sh
+: 1672130038:0;nvim
+: 1672130058:0;./toggle_waybar.sh
+: 1672130063:0;nvim
+: 1672130071:0;./toggle_waybar.sh
+: 1672130110:0;pgrep "waybar" && echo "Running"
+: 1672130115:0;waybar
+: 1672130117:0;pgrep "waybar" && echo "Running"
+: 1672130122:0;clear
+: 1672130169:0;nvim
+: 1672130200:0;clear
+: 1672130201:0;exit
+: 1672130202:0;clear
+: 1672130212:0;killall waybar
+: 1672130213:0;clear
+: 1672130213:0;nvim
+: 1672130244:0;pgrep waybar
+: 1672130245:0;clear
+: 1672130246:0;nvim
+: 1672130285:0;clear
+: 1672130291:0;pgrep waybar
+: 1672130296:0;echo $?
+: 1672130335:0;if [ $? -eq 1 ]; then echo "Not running" fi
+: 1672130339:0;if [ $? -eq 1 ]; then echo "Not running"; fi
+: 1672130346:0;pgrep waybar
+: 1672130354:0;if [ $? -eq 1 ]; then echo "Not running"; fi
+: 1672130361:0;nvim
+: 1672130401:0;pgrep waybar
+: 1672130404:0;if [ $? -eq 1 ]; then echo "Not running"; fi
+: 1672130405:0;pgrep waybar
+: 1672130412:0;if [ $? -eq 0 ]; then echo "Not running"; fi
+: 1672130419:0;nvim
+: 1672130460:0;if pgrep waybar; then\
+  killall waybar\
+else\
+  waybar\
+fi
+: 1672130465:0;waybar
+: 1672130468:0;if pgrep waybar; then\
+  killall waybar\
+else\
+  waybar\
+fi
+: 1672130475:0;imnv
+: 1672130477:0;nvim
+: 1672130493:0;exitit
+: 1672130495:0;clear
+: 1672130495:0;exit
+: 1672130498:0;clear
+: 1672130500:0;./toggle_waybar.sh
+: 1672130503:0;clear
+: 1672130504:0;nvim
+: 1672130521:0;./toggle_waybar.sh
+: 1672130527:0;waybar
+: 1672130530:0;./toggle_waybar.sh
+: 1672130533:0;celar
+: 1672130535:0;clear
+: 1672130536:0;exit
+: 1672130537:0;clear
+: 1672130570:0;nvim
+: 1672130616:0;clear
+: 1672130618:0;./toggle_waybar.sh
+: 1672130621:0;clear
+: 1672130636:0;./toggle_waybar.sh
+: 1672130638:0;nvim
+: 1672130641:0;./toggle_waybar.sh
+: 1672130644:0;nvim toggle_waybar.sh
+: 1672130652:0;./toggle_waybar.sh
+: 1672130655:0;clear
+: 1672130655:0;nvim
+: 1672130668:0;pgrep waybar > /dev/null
+: 1672130681:0;nvim
+: 1672130699:0;if pgrep waybar; then\
+  killall waybar\
+else\
+  waybar\
+fi
+: 1672130704:0;clear
+: 1672130708:0;waybar
+: 1672130712:0;if pgrep waybar; then\
+  killall waybar\
+else\
+  waybar\
+fi
+: 1672130737:0;if pgrep waybar > /dev/null; then\
+  killall waybar > /dev/null\
+else\
+  waybar > /dev/null\
+fi
+: 1672130748:0;clear
+: 1672130787:0;exit
+: 1672130806:0;pgrep waybar > /dev/null && \
+  killall waybar || \
+    waybar & > /dev/null
+: 1672130828:0;nvimim
+: 1672130829:0;nvim
+: 1672130840:0;clear
+: 1672130841:0;exit
+: 1672130857:0;cd dev
+: 1672130857:0;clear
+: 1672130857:0;ls
+: 1672130859:0;clear
+: 1672130864:0;ls
+: 1672130866:0;clear
+: 1672130947:0;ls
+: 1672130948:0;clear
+: 1672130950:0;cd cscript
+: 1672130951:0;clear
+: 1672130952:0;ls
+: 1672130953:0;clear
+: 1672131072:0;ls
+: 1672131073:0;clear
+: 1672131074:0;nvim
+: 1672131092:0;clear
+: 1672131093:0;ls
+: 1672131094:0;clear
+: 1672131146:0;ls
+: 1672131147:0;clear
+: 1672131148:0;cd ..
+: 1672131149:0;ll
+: 1672131152:0;clear
+: 1672131153:0;ls
+: 1672131159:0;clear
+: 1672131161:0;ls
+: 1672131182:0;clear
+: 1672131183:0;ls
+: 1672131184:0;clear
+: 1672131186:0;exit
+: 1672131191:0;xit
+: 1672131194:0;killall kitty
+: 1672131286:0;cd Downloads
+: 1672131286:0;clear
+: 1672131287:0;ls
+: 1672131288:0;clear
+: 1672131291:0;./arduino-ide_2.0.3_Linux_64bit.AppImage
+: 1672131296:0;sudo ./arduino-ide_2.0.3_Linux_64bit.AppImage
+: 1672131304:0;clear
+: 1672131318:0;chmod +x arduino-ide_2.0.3_Linux_64bit.AppImage
+: 1672131319:0;clear
+: 1672131320:0;./arduino-ide_2.0.3_Linux_64bit.AppImage
+: 1672131329:0;sudo pacman -S fuse2
+: 1672131332:0;clear
+: 1672131335:0;./arduino-ide_2.0.3_Linux_64bit.AppImage
+: 1672131352:0;clear
+: 1672131353:0;exit
+: 1672131359:0;ls
+: 1672131381:0;mv Downloads/arduino-ide_2.0.3_Linux_64bit.AppImage .local/bin/Arduino.AppImage
+: 1672131382:0;clear
+: 1672131386:0;Arduino
+: 1672131389:0;clear
+: 1672131390:0;cd ..
+: 1672131390:0;clear
+: 1672131392:0;cd .local
+: 1672131393:0;cd share
+: 1672131393:0;ls
+: 1672131397:0;cd ..
+: 1672131397:0;ls
+: 1672131399:0;clear
+: 1672131403:0;cd /usr/share/applications
+: 1672131404:0;clear
+: 1672131404:0;ls
+: 1672131413:0;sudo cp firefox.desktop arduino.desktop
+: 1672131417:0;nvim arduino.desktop
+: 1672131447:0;ls
+: 1672131455:0;sudo cp kitty.desktop arduino.desktop
+: 1672131455:0;clear
+: 1672131456:0;nvim
+: 1672131466:0;sudo nvim
+: 1672131473:0;sudo nvim arduino.desktop
+: 1672131507:0;clear
+: 1672131508:0;exit
+: 1672131517:0;clear
+: 1672131518:0;exit
+: 1672131580:0;Arduino.AppImage dev/learn_arduino/ChessClock/ChessClock.ino
+: 1672131610:0;clear
+: 1672131612:0;Arduino.AppImage dev/learn_arduino/ChessClock/ChessClock.ino &
+: 1672131625:0;clear
+: 1672131629:0;exitit
+: 1672131630:0;exit
+: 1672131666:0;clear
+: 1672131667:0;cd dev
+: 1672131671:0;cd learn_arduino
+: 1672131671:0;celar
+: 1672131672:0;clear
+: 1672131856:0;sudo poweroff
+: 1672155540:0;clear
+: 1672155540:0;ls
+: 1672155541:0;clear
+: 1672155542:0;Hyprland
+: 1672155545:0;cd dev
+: 1672155546:0;clear
+: 1672155570:0;curl -sSL https://install.python-poetry.org | python3 -\
+
+: 1672155599:0;poetry --version
+: 1672155601:0;clear
+: 1672155601:0;ls
+: 1672155602:0;clear
+: 1672155618:0;poetry new server_management
+: 1672155621:0;cd server_management
+: 1672155624:0;clear
+: 1672155624:0;ls
+: 1672155628:0;clear
+: 1672155637:0;nvim pyproject.toml
+: 1672155658:0;clear
+: 1672155659:0;l
+: 1672155661:0;clear
+: 1672155661:0;ls
+: 1672155663:0;clear
+: 1672155676:0;nvim
+: 1672155764:0;poetry run python3 server_management
+: 1672155771:0;clear
+: 1672155772:0;ls
+: 1672155779:0;touch server_management/__main__.py
+: 1672155780:0;clear
+: 1672155780:0;nvim
+: 1672155816:0;clear
+: 1672155823:0;yay -S nvm
+: 1672155834:0;clear
+: 1672155837:0;nvm
+: 1672155838:0;clear
+: 1672155841:0;yay -S nvm
+: 1672155859:0;clear
+: 1672155862:0;yay -Rns nvm
+: 1672155865:0;clear
+: 1672155891:0;yay -S nvm
+: 1672155902:0;clear
+: 1672155910:0;source /usr/share/nvm/init-nvm.sh
+: 1672155911:0;clear
+: 1672155913:0;nvm
+: 1672155914:0;clear
+: 1672155916:0;nvm add node
+: 1672155921:0;nvm install node
+: 1672155933:0;clear
+: 1672155934:0;ls
+: 1672155935:0;clear
+: 1672155936:0;nvim
+: 1672156156:0;clear
+: 1672156161:0;poetry --help
+: 1672156165:0;poetry list
+: 1672156178:0;poetry about
+: 1672156190:0;poetry show
+: 1672156194:0;poetry lock
+: 1672156196:0;clear
+: 1672156219:0;poetry env
+: 1672156224:0;poetry env info
+: 1672156248:0;source /home/silva/.cache/pypoetry/virtualenvs/server-management-RGNN1iil-py3.10/bin/activate
+: 1672156251:0;clear
+: 1672156252:0;nvim
+: 1672156282:0;clear
+: 1672156285:0;poetry run python3 server_management
+: 1672156290:0;clear
+: 1672156290:0;ls
+: 1672156292:0;clear
+: 1672156294:0;poetry install
+: 1672156299:0;poetry run python3 server_management
+: 1672156301:0;clear
+: 1672156302:0;nvim
+: 1672156333:0;clear
+: 1672156334:0;tmux
+: 1672156346:0;poetry run python3 server_management
+: 1672156351:0;nvim
+: 1672156394:0;poetry run python3 server_management
+: 1672156403:0;clear
+: 1672156546:0;ls
+: 1672156547:0;clear
+: 1672156549:0;ls server_management
+: 1672156551:0;nvim
+: 1672157521:0;poetry install
+: 1672157526:0;poetry run python3 server_management
+: 1672157555:0;poetry run python3 server_management --help
+: 1672157564:0;clear
+: 1672157719:0;poetry add black
+: 1672157737:0;poetry add pickle
+: 1672157740:0;clear
+: 1672157741:0;poetry install
+: 1672157745:0;clear
+: 1672157746:0;black
+: 1672157747:0;clear
+: 1672157749:0;black .
+: 1672157750:0;clear
+: 1672157758:0;nvim
+: 1672157869:0;black .
+: 1672157870:0;clear
+: 1672157872:0;poetry install
+: 1672157874:0;clear
+: 1672157879:0;poetry run python3 server_management --help
+: 1672157883:0;poetry run python3 server_management client --help
+: 1672157886:0;clear
+: 1672157942:0;poetry run python3 server_management client
+: 1672157993:0;black .
+: 1672157995:0;clear
+: 1672158006:0;poetry run python3 server_management client
+: 1672158015:0;poetry run python3 server_management client --ip 127.0.0.1 --port 12
+: 1672158018:0;clear
+: 1672158213:0;nvim
+: 1672158417:0;clear
+: 1672158417:0;nvim
+: 1672158478:0;clear
+: 1672158479:0;nvim
+: 1672158507:0;poetry run python3 server_management client --ip 127.0.0.1 --port 12
+: 1672158513:0;poetry run python3 server_management client --ip 127.w.0.1 --port 12
+: 1672158516:0;clear
+: 1672158525:0;poetry run python3 server_management client --ip 127.w.0.1 --port 12
+: 1672158529:0;poetry run python3 server_management client --ip 127.0.0.1 --port 12
+: 1672158531:0;clear
+: 1672158938:0;black .
+: 1672158939:0;clear
+: 1672158940:0;nvim
+: 1672158951:0;poetry run python3 server_management client --ip 127.0.0.1 --port -2
+: 1672158956:0;poetry run python3 server_management client --ip 127.0.0.1 --port -6666666
+: 1672158960:0;poetry run python3 server_management client --ip 127.0.0.1 --port 6666666
+: 1672158962:0;clear
+: 1672158963:0;ls
+: 1672158963:0;clear
+: 1672160525:0;cd ..
+: 1672160525:0;clear
+: 1672160526:0;exit
+: 1672160528:0;clear
+: 1672160529:0;exit
+: 1672160530:0;cd dev
+: 1672160531:0;clear
+: 1672166260:0;nmtui
+: 1672166315:0;killall nmcli
+: 1672166320:0;killall nmtu
+: 1672166321:0;killall nmtui
+: 1672166322:0;clear
+: 1672166327:0;ls
+: 1672166328:0;exit
+: 1672166340:0;nvim .config/starship.toml
+: 1672166352:0;exit
+: 1672166487:0;clear
+: 1672166488:0;ls
+: 1672166489:0;clear
+: 1672166490:0;cd dev
+: 1672166490:0;ls
+: 1672166493:0;cd learn_arduino
+: 1672166494:0;cd ..
+: 1672166495:0;cd cscript
+: 1672166496:0;clear
+: 1672166497:0;ls
+: 1672166498:0;clear
+: 1672166580:0;nvim ~/.config/starship.toml
+: 1672166598:0;clear
+: 1672166606:0;nvim ~/.config/starship.toml
+: 1672166641:0;clear
+: 1672166673:0;nvim ~/.config/starship.toml
+: 1672166690:0;clear
+: 1672166691:0;ls
+: 1672166692:0;clear
+: 1672166706:0;sudo pacman -S neofetch
+: 1672166711:0;clear
+: 1672166717:0;neofetch
+: 1672166743:0;clear
+: 1672166759:0;ls
+: 1672166768:0;sleep 5
+: 1672166792:0;clear
+: 1672166940:0;nvim ~/.config/starship.toml
+: 1672167185:0;ls
+: 1672167186:0;clear
+: 1672167213:0;nvim ~/.config/starship.toml
+: 1672167218:0;clear
+: 1672167219:0;ls
+: 1672167219:0;clear
+: 1672167234:0;cd src
+: 1672167235:0;clear
+: 1672167236:0;cd
+: 1672167237:0;clear
+: 1672167264:0;ls
+: 1672167265:0;clear
+: 1672167285:0;cd .config
+: 1672167285:0;ls
+: 1672167288:0;cd w
+: 1672167290:0;cd wofi
+: 1672167290:0;clear
+: 1672167292:0;ls
+: 1672167295:0;nvim style.css
+: 1672167480:0;clear
+: 1672167482:0;cd
+: 1672167483:0;clear
+: 1672167593:0;nvim ~/.config/starship.toml
+: 1672167668:0;clear
+: 1672167668:0;ls
+: 1672167669:0;clear
+: 1672167671:0;a
+: 1672167674:0;clear
+: 1672167726:0;nvim ~/.config/starship.toml
+: 1672167739:0;clear
+: 1672167740:0;ls
+: 1672167742:0;cd dev
+: 1672167742:0;ls
+: 1672167772:0;clear
+: 1672167822:0;nvim ~/.config/starship.toml
+: 1672167835:0;clear
+: 1672167840:0;cd cscript
+: 1672167841:0;clear
+: 1672167841:0;ls
+: 1672167843:0;cd target
+: 1672167843:0;ls
+: 1672167845:0;cd debug
+: 1672167846:0;ls
+: 1672167847:0;cd build
+: 1672167848:0;clear
+: 1672167848:0;ls
+: 1672167851:0;cd ..
+: 1672167854:0;cargo build
+: 1672167855:0;clear
+: 1672167856:0;ls
+: 1672167858:0;cd debug
+: 1672167858:0;ls
+: 1672167860:0;cd build
+: 1672167861:0;ls
+: 1672167862:0;cd ..
+: 1672167863:0;clear
+: 1672167863:0;ls
+: 1672167870:0;./cscript
+: 1672167871:0;clear
+: 1672167871:0;cd
+: 1672167871:0;clear
+: 1672167875:0;nvim
+: 1672167882:0;clear
+: 1672167885:0;ls
+: 1672167886:0;clear
+: 1672167886:0;exit
+: 1672167924:0;ls
+: 1672167925:0;clear
+: 1672167931:0;cd .config
+: 1672167933:0;cd hypr
+: 1672167933:0;clear
+: 1672167934:0;nvim
+: 1672167965:0;clear
+: 1672167968:0;killall Hyprland
+: 1672167972:0;Hyprland
+: 1672167979:0;exit
+: 1672167988:0;sudo poweroff
+: 1672168031:0;clear
+: 1672168032:0;Hyprland
+: 1672168063:0;yay -S conky
+: 1672168070:0;clear
+: 1672168072:0;conky
+: 1672168080:0;clear
+: 1672168083:0;yay -Rns conky
+: 1672168085:0;clear
+: 1672168302:0;gh repo clone Syndrizzle/hotfiles
+: 1672168306:0;yay -S github-cli
+: 1672168310:0;clear
+: 1672168312:0;gh repo clone Syndrizzle/hotfiles
+: 1672168316:0;gh auth login
+: 1672168430:0;clear
+: 1672168434:0;gh repo clone Syndrizzle/hotfiles
+: 1672168492:0;clear
+: 1672168492:0;ls
+: 1672168495:0;cd hotfiles
+: 1672168500:0;git checkout bspwm
+: 1672168502:0;clear
+: 1672168502:0;ls
+: 1672168503:0;clear
+: 1672168507:0;ls
+: 1672168516:0;yay -S conky
+: 1672168518:0;clear
+: 1672168519:0;ls
+: 1672168526:0;tree
+: 1672168529:0;cd .config
+: 1672168529:0;ls
+: 1672168532:0;cd conky
+: 1672168533:0;clear
+: 1672168534:0;ls
+: 1672168543:0;cd ..
+: 1672168549:0;cp -rf conky .config/
+: 1672168550:0;clear
+: 1672168552:0;cd
+: 1672168553:0;cd .config
+: 1672168554:0;clear
+: 1672168554:0;ls
+: 1672168555:0;cd conf
+: 1672168562:0;ls
+: 1672168585:0;cp -r ~/hotfiles/.config/conky .config/
+: 1672168586:0;ls
+: 1672168597:0;ll
+: 1672168619:0;cp -r ~/hotfiles/.config/conky .config
+: 1672168620:0;ls
+: 1672168625:0;cd conky
+: 1672168626:0;clear
+: 1672168628:0;ls
+: 1672168629:0;clear
+: 1672168633:0;yay -S ranger
+: 1672168636:0;clear
+: 1672168637:0;ranger
+: 1672168732:0;clear
+: 1672168733:0;ls
+: 1672168736:0;ll
+: 1672168743:0;clear
+: 1672168744:0;conky
+: 1672168834:0;pgrep conky
+: 1672168835:0;clear
+: 1672168839:0;conky
+: 1672168859:0;clear
+: 1672168861:0;rm -rf conky
+: 1672168862:0;clear
+: 1672168862:0;ls
+: 1672168865:0;cd ..
+: 1672168868:0;clear
+: 1672168869:0;ls
+: 1672168907:0;clear
+: 1672168919:0;ls
+: 1672168922:0;cd conky
+: 1672168922:0;ls
+: 1672168926:0;cd Auva
+: 1672168926:0;ls
+: 1672168930:0;chmod +x start.sh
+: 1672168930:0;ls
+: 1672168932:0;clear
+: 1672168933:0;./start.sh
+: 1672168948:0;killall conky
+: 1672168950:0;clear
+: 1672168954:0;ls
+: 1672168980:0;exit
+: 1672168983:0;cd ..
+: 1672168985:0;rm -rf conky
+: 1672168987:0;clear
+: 1672168987:0;ls
+: 1672168989:0;cd ..
+: 1672168992:0;rm -rf hotfiles
+: 1672168992:0;clear
+: 1672168993:0;ls
+: 1672168994:0;clear
+: 1672168999:0;ls
+: 1672169000:0;clear
+: 1672169008:0;ls
+: 1672169027:0;clear
+: 1672169027:0;ls
+: 1672169029:0;cd bin
+: 1672169029:0;ls
+: 1672169032:0;cd ..
+: 1672169034:0;rm -rf bin
+: 1672169034:0;clear
+: 1672169037:0;arduino-cli
+: 1672169038:0;clear
+: 1672169038:0;ls
+: 1672169046:0;arduino-cli --help
+: 1672169063:0;arduino-cli config
+: 1672169700:0;clear
+: 1672169709:0;yay -S ino
+: 1672169711:0;clear
+: 1672169714:0;sudo pacman -S ino
+: 1672169722:0;clear
+: 1672169725:0;nvim .zshrc
+: 1672169745:0;clear
+: 1672169752:0;source .zshrc
+: 1672169754:0;clear
+: 1672169755:0;ls
+: 1672169756:0;clear
+: 1672169759:0;ino
+: 1672169765:0;clear
+: 1672169767:0;ino version
+: 1672169770:0;clear
+: 1672169771:0;exit
+: 1672170008:0;yay -S ly
+: 1672170037:0;clear
+: 1672170038:0;ly
+: 1672170047:0;clear
+: 1672170048:0;ls
+: 1672170050:0;clear
+: 1672170059:0;sudo systemctl enable ly.service
+: 1672170060:0;clear
+: 1672170062:0;sudo reboot
+: 1672170101:0;ls
+: 1672170102:0;clear
+: 1672170102:0;exit
+: 1672170111:0;ranger
+: 1672170113:0;clear
+: 1672170114:0;ls
+: 1672170115:0;clear
+: 1672170120:0;EDITOR=nvim
+: 1672170121:0;clear
+: 1672170122:0;ranger
+: 1672170129:0;clear
+: 1672170140:0;export EDITOR=nvim
+: 1672170141:0;clear
+: 1672170142:0;ranger
+: 1672170149:0;clear
+: 1672170152:0;nvim .zshrc
+: 1672170197:0;clear
+: 1672170201:0;source .zshrc
+: 1672170202:0;exit
+: 1672211650:0;cd dev
+: 1672211650:0;clear
+: 1672211651:0;ls
+: 1672211653:0;cd cscript
+: 1672211654:0;clear
+: 1672211656:0;cargo add bevy
+: 1672211661:0;clear
+: 1672211663:0;cargo build
+: 1672211680:0;cargo build --release
+: 1672211703:0;yay -S btop
+: 1672211711:0;clear
+: 1672211711:0;btop
+: 1672211755:0;clear
+: 1672211755:0;exit
+: 1672211760:0;clear
+: 1672211766:0;exit
+: 1672218454:0;clear
+: 1672218454:0;ls
+: 1672218455:0;clear
+: 1672218464:0;cd .config
+: 1672218464:0;clear
+: 1672218464:0;ls
+: 1672218466:0;cd waybar
+: 1672218466:0;clear
+: 1672218467:0;ls
+: 1672218467:0;clear
+: 1672218468:0;nvim
+: 1672218572:0;clear
+: 1672218574:0;sudo poweroff
+: 1672242896:0;ls
+: 1672242897:0;clear
+: 1672242939:0;yay -S dotdrop
+: 1672242962:0;clear
+: 1672242962:0;l
+: 1672242965:0;ls
+: 1672242966:0;clear
+: 1672242968:0;mkdir dotfiles
+: 1672242969:0;cd do
+: 1672242972:0;cd dotfiles
+: 1672242972:0;celar
+: 1672242973:0;clear
+: 1672242991:0;dotdrop --help
+: 1672243015:0;dotdrop init
+: 1672243029:0;nvim config.yaml
+: 1672243050:0;clear
+: 1672243062:0;dotdrop import ~/.config/hypr/
+: 1672243066:0;clear
+: 1672243076:0;cd ..
+: 1672243079:0;cd do
+: 1672243082:0;cd dotfiles
+: 1672243082:0;clear
+: 1672243083:0;ls
+: 1672243083:0;clear
+: 1672243085:0;rm config.yaml
+: 1672243086:0;clear
+: 1672243089:0;git init
+: 1672243091:0;ll
+: 1672243094:0;clear
+: 1672243095:0;ls -a
+: 1672243097:0;clear
+: 1672243103:0;git submodule add https://github.com/deadc0de6/dotdrop.git
+: 1672243105:0;clear
+: 1672243132:0;pip3 install -r dotdrop/requirements.txt --user
+: 1672243139:0;python3 -m pip
+: 1672243140:0;clear
+: 1672243145:0;sudo pacman -S pip
+: 1672243148:0;sudo pacman -S pip3
+: 1672243151:0;python3-pip
+: 1672243156:0;sudo pacman -S python3-pip
+: 1672243184:0;sudo pacman -S python-pip
+: 1672243190:0;sudo pacman -Syu
+: 1672243206:0;clear
+: 1672243209:0;sudo pacman -S python-pip
+: 1672243212:0;clear
+: 1672243215:0;pip -V
+: 1672243223:0;pip3 install -r dotdrop/requirements.txt --user
+: 1672243226:0;clear
+: 1672243233:0;./dotdrop/bootstrap.sh
+: 1672243235:0;clear
+: 1672243235:0;ls
+: 1672243242:0;./dotdrop.sh --help
+: 1672243261:0;./dotdrop.sh import ~/.config/hypr
+: 1672243267:0;clear
+: 1672243284:0;./dotdrop import ~/.config/kitty
+: 1672243289:0;./dotdrop.sh import ~/.config/kitty
+: 1672243291:0;clear
+: 1672243298:0;ls ~/.config
+: 1672243311:0;./dotdrop.sh import ~/.config/nvim ~/.config/nvim.config
+: 1672243340:0;./dotdrop.sh import ~/.config/waybar ~/.config/wofi 
+: 1672243342:0;clear
+: 1672243343:0;ls
+: 1672243344:0;clear
+: 1672243350:0;git add --all
+: 1672243365:0;git commit -m "Init"
+: 1672243367:0;clear
+: 1672243368:0;git diff
+: 1672243379:0;cd dot
+: 1672243380:0;ls
+: 1672243382:0;cd dotfiles
+: 1672243382:0;ls
+: 1672243384:0;cd config
+: 1672243385:0;ls
+: 1672243389:0;cd wofi
+: 1672243389:0;ls
+: 1672243391:0;ls -a
+: 1672243397:0;rm -rf .git .github
+: 1672243400:0;clear
+: 1672243401:0;cd ..
+: 1672243402:0;git add --all
+: 1672243412:0;lazygit
+: 1672243420:0;clear
+: 1672243421:0;ls
+: 1672243422:0;cd nvim
+: 1672243423:0;ls
+: 1672243425:0;ls -a
+: 1672243440:0;rm -rf .git
+: 1672243442:0;clear
+: 1672243443:0;cd ..
+: 1672243446:0;clear
+: 1672243446:0;ls
+: 1672243448:0;clear
+: 1672243452:0;ls ~
+: 1672243488:0;dotdrop import ~/.zshrc ~/.zshenv ~/.zsh_history
