@@ -34,6 +34,9 @@ dotfiles:
   d_plugins:
     src: oh-my-zsh/plugins
     dst: ~/.oh-my-zsh/plugins
+  f_starship.toml:
+    src: config/starship.toml
+    dst: ~/.config/starship.toml
 profiles:
   silva-arch:
     dotfiles:
@@ -47,3 +50,4 @@ profiles:
     - f_zshenv
     - f_zsh_history
     - d_plugins
+    - f_starship.toml

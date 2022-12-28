@@ -1,0 +1,12 @@
+format = """$battery\
+$directory\
+$git_branch\
+$git_status\
+$cmd_duration
+$character"""
+
+[character]
+format = "$symbol "
+success_symbol = "[->](bold green)"
+error_symbol = "[->](bold red)"
+
