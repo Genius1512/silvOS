@@ -37,6 +37,9 @@ dotfiles:
   f_starship.toml:
     src: config/starship.toml
     dst: ~/.config/starship.toml
+  d_btop:
+    src: config/btop
+    dst: ~/.config/btop
 profiles:
   silva-arch:
     dotfiles:
@@ -51,3 +54,4 @@ profiles:
     - f_zsh_history
     - d_plugins
     - f_starship.toml
+    - d_btop
