@@ -1,0 +1,32 @@
+config:
+  backup: true
+  create: true
+  dotpath: dotfiles
+dotfiles:
+  d_hypr:
+    src: config/hypr
+    dst: ~/.config/hypr
+  d_kitty:
+    src: config/kitty
+    dst: ~/.config/kitty
+  d_nvim:
+    src: config/nvim
+    dst: ~/.config/nvim
+  d_nvim.config:
+    src: config/nvim.config
+    dst: ~/.config/nvim.config
+  d_waybar:
+    src: config/waybar
+    dst: ~/.config/waybar
+  d_wofi:
+    src: config/wofi
+    dst: ~/.config/wofi
+profiles:
+  silva-arch:
+    dotfiles:
+    - d_hypr
+    - d_kitty
+    - d_nvim
+    - d_nvim.config
+    - d_waybar
+    - d_wofi
