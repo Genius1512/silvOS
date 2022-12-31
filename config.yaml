@@ -40,6 +40,12 @@ dotfiles:
   d_btop:
     src: config/btop
     dst: ~/.config/btop
+  f_mimeapps.list:
+    src: config/mimeapps.list
+    dst: ~/.config/mimeapps.list
+  d_ranger:
+    src: config/ranger
+    dst: ~/.config/ranger
 profiles:
   silva-arch:
     dotfiles:
@@ -55,3 +61,5 @@ profiles:
     - d_plugins
     - f_starship.toml
     - d_btop
+    - f_mimeapps.list
+    - d_ranger
