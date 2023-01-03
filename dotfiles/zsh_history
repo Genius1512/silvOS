@@ -4344,3 +4344,265 @@ sudo nvim Main.qml
 : 1672765338:0;clear
 : 1672765341:0;dotdrop --help
 : 1672765345:0;dotdrop update
+: 1672765371:0;clear
+: 1672765371:0;ls
+: 1672765373:0;clear
+: 1672765373:0;ls
+: 1672765375:0;clear
+: 1672765540:0;exit
+: 1672765545:0;ls
+: 1672765548:0;clear
+: 1672765551:0;cd ..
+: 1672765554:0;cd
+: 1672765555:0;clear
+: 1672765572:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672765589:0;killall sddm-greeter
+: 1672765650:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672765654:0;killall sddm-greeter
+: 1672765665:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672765673:0;killall sddm-greeter
+: 1672765764:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672765826:0;killall sddm-greeter
+: 1672765827:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672765875:0;killall sddm-greeter
+: 1672765877:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672766109:0;clear
+: 1672766110:0;cd /tmp
+: 1672766110:0;clear
+: 1672766111:0;gh repo clone Rokin05/sddm-themes
+: 1672766117:0;clear
+: 1672766118:0;ls
+: 1672766118:0;clear
+: 1672766121:0;cd sddm-themes
+: 1672766122:0;clear
+: 1672766122:0;ls
+: 1672766123:0;cd src
+: 1672766124:0;ls
+: 1672766135:0;sudo cp -r arc /usr/share/sddm/themes
+: 1672766139:0;clear
+: 1672766145:0;killall sddm-greeter
+: 1672766146:0;clear
+: 1672766151:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/arc
+: 1672766167:0;killall sddm-greeter
+: 1672766190:0;sudo pacman -S qt5-quickcontrols2 qt5-graphicaleffects qt5-svg
+: 1672766192:0;clear
+: 1672766197:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/arc
+: 1672766234:0;killall sddm-greeter
+: 1672766234:0;clear
+: 1672766242:0;cd /usr/share/sddm/themes/arc
+: 1672766243:0;celar
+: 1672766243:0;ls
+: 1672766244:0;clear
+: 1672766245:0;ls
+: 1672766247:0;nvim
+: 1672766351:0;clear
+: 1672766354:0;cd /tmp
+: 1672766362:0;cd sddm-theme-clairvoyance
+: 1672766363:0;clear
+: 1672766458:0;ls
+: 1672766461:0;cd ..
+: 1672766464:0;clear
+: 1672766473:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672766511:0;killall sddm-greeter
+: 1672766512:0;clear
+: 1672766525:0;cd /usr/share/sddm/themes/clairvoyance
+: 1672766525:0;clear
+: 1672766525:0;sl
+: 1672766526:0;ls
+: 1672766530:0;clear
+: 1672766532:0;nvim
+: 1672766574:0;cd .config
+: 1672766574:0;clear
+: 1672766575:0;nvim
+: 1672766579:0;clear
+: 1672766580:0;exit
+: 1672766732:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672766759:0;killall sddm-greeter
+: 1672766795:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672766825:0;killall sddm-greeter
+: 1672766906:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672766932:0;killall sddm-greeter
+: 1672766967:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672766986:0;killall sddm-greeter
+: 1672767103:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767118:0;killall sddm-greeter
+: 1672767265:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767270:0;killall sddm-greeter
+: 1672767279:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767281:0;killall sddm-greeter
+: 1672767286:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767322:0;killall sddm-greeter
+: 1672767323:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767333:0;killall sddm-greeter
+: 1672767334:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767358:0;killall sddm-greeter
+: 1672767359:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767366:0;killall sddm-greeter
+: 1672767374:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767376:0;killall sddm-greeter
+: 1672767381:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767384:0;killall sddm-greeter
+: 1672767388:0;aria2c Downloads/archlinux-2022.12.01-x86_64.iso.torrent
+: 1672767394:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767397:0;killall sddm-greeter
+: 1672767401:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767405:0;killall sddm-greeter
+: 1672767409:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767413:0;killall sddm-greeter
+: 1672767422:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767426:0;killall sddm-greeter
+: 1672767438:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767442:0;killall sddm-greeter
+: 1672767447:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672767452:0;killall sddm-greeter
+: 1672769556:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769564:0;killall sddm-greeter
+: 1672769567:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769577:0;killall sddm-greeter
+: 1672769587:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance$
+: 1672769590:0;killall sddm-greeter
+: 1672769595:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769602:0;killall sddm-greeter
+: 1672769609:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769616:0;killall sddm-greeter
+: 1672769623:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769629:0;killall sddm-greeter
+: 1672769642:0;clear
+: 1672769643:0;ranger
+: 1672769659:0;clear
+: 1672769660:0;nvim
+: 1672769690:0;ranger
+: 1672769698:0;nvim
+: 1672769728:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769735:0;killall sddm-greeter
+: 1672769740:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769744:0;killall sddm-greeter
+: 1672769757:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769761:0;killall sddm-greeter
+: 1672769768:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769772:0;killall sddm-greeter
+: 1672769778:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769782:0;killall sddm-greeter
+: 1672769787:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769791:0;killall sddm-greeter
+: 1672769801:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769826:0;killall sddm-greeter
+: 1672769880:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769890:0;killall sddm-greeter
+: 1672769914:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672769925:0;killall sddm-greeter
+: 1672770028:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770037:0;killall sddm-greeter
+: 1672770070:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770082:0;killall sddm-greeter
+: 1672770091:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770099:0;killall sddm-greeter
+: 1672770153:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770160:0;killall sddm-greeter
+: 1672770172:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770183:0;killall sddm-greeter
+: 1672770193:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770200:0;killall sddm-greeter
+: 1672770221:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770227:0;killall sddm-greeter
+: 1672770258:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770265:0;killall sddm-greeter
+: 1672770284:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770290:0;killall sddm-greeter
+: 1672770409:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770416:0;killall sddm-greeter
+: 1672770421:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770434:0;killall sddm-greeter
+: 1672770440:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770448:0;killall sddm-greeter
+: 1672770454:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770462:0;killall sddm-greeter
+: 1672770473:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770494:0;killall sddm-greeter
+: 1672770522:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770529:0;killall sddm-greeter
+: 1672770662:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/clairvoyance
+: 1672770686:0;killall sddm-greeter
+: 1672770687:0;clear
+: 1672770696:0;sudo nvim /etc/sddm.conf
+: 1672770737:0;clear
+: 1672770740:0;ls
+: 1672770741:0;clear
+: 1672770742:0;reboot
+: 1672770788:0;sudo systemctl enable sddm.service
+: 1672770792:0;clera
+: 1672770795:0;clear
+: 1672770796:0;reboot
+: 1672770818:0;sudo cp Pictures/Wallpapers /usr/share/sddm/themes/clairvoyance/Assets
+: 1672770831:0;sudo cp Pictures/Wallpapers/Gradient\ Synth\ Cat.png /usr/share/sddm/themes/clairvoyance/Assets
+: 1672770833:0;clear
+: 1672770848:0;sudo nvim /usr/share/sddm/themes/clairvoyance/Main.qml
+: 1672770853:0;sudo nvim /usr/share/sddm/themes/clairvoyance/theme.conf
+: 1672770865:0;clear
+: 1672770866:0;reboot
+: 1672770913:0;cd dotfiles
+: 1672770914:0;clear
+: 1672770914:0;ls
+: 1672770915:0;clear
+: 1672770920:0;cd /usr/share/sddm/themes
+: 1672770921:0;clera
+: 1672770921:0;ls
+: 1672770922:0;clear
+: 1672770922:0;ls
+: 1672770923:0;clear
+: 1672770935:0;sudo mv clairvoyance simple_catppuccin
+: 1672770943:0;sudo nvim /etc/sddm.conf
+: 1672770957:0;clear
+: 1672770958:0;ls
+: 1672770961:0;cd simple_catppuccin
+: 1672770961:0;clear
+: 1672770962:0;sl
+: 1672770962:0;ls
+: 1672770971:0;rm clairvoyance_*
+: 1672770972:0;cat metadata.desktop
+: 1672770976:0;rm metadata.desktop
+: 1672770979:0;rm LICENSE
+: 1672770981:0;rm -rf .git
+: 1672770985:0;rm README.md
+: 1672770986:0;ls
+: 1672770992:0;clear
+: 1672770993:0;ls
+: 1672770995:0;clear
+: 1672771002:0;sudo nvim /etc/sddm.conf
+: 1672771008:0;clear
+: 1672771009:0;ls
+: 1672771011:0;clear
+: 1672771011:0;cd
+: 1672771012:0;clear
+: 1672771014:0;cd dotfiles
+: 1672771014:0;clear
+: 1672771022:0;dotdrop import /etc/sddm.conf
+: 1672771040:0;dotdrop import /usr/share/sddm/themes/simple_catppuccin
+: 1672771041:0;clear
+: 1672771044:0;git add --all
+: 1672771051:0;git commit -m "Add sddm"
+: 1672771052:0;clear
+: 1672771056:0;pazygit
+: 1672771059:0;lazygit
+: 1672771072:0;clear
+: 1672771074:0;git push
+: 1672771078:0;clear
+: 1672771093:0;cd ..
+: 1672771093:0;clear
+: 1672771095:0;cd .config
+: 1672771095:0;clear
+: 1672771096:0;nvim
+: 1672771208:0;clear
+: 1672771208:0;reboot
+: 1672771257:0;cd .config
+: 1672771258:0;clear
+: 1672771258:0;nvim
+: 1672771269:0;clear
+: 1672771270:0;nvim
+: 1672771273:0;exit
+: 1672771275:0;cd
+: 1672771276:0;clear
+: 1672771277:0;cd do
+: 1672771279:0;cd dotfiles
+: 1672771280:0;clear
+: 1672771282:0;dotdrop update

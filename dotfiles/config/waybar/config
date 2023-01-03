@@ -1,6 +1,7 @@
 {
     "layer": "top",
     "position": "bottom",
+    "margin-bottom": 12,
     "modules-left": [
         "cpu",
         "memory",
