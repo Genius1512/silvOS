@@ -1750,3 +1750,2597 @@ fi
 : 1672243448:0;clear
 : 1672243452:0;ls ~
 : 1672243488:0;dotdrop import ~/.zshrc ~/.zshenv ~/.zsh_history
+: 1672243490:0;clear
+: 1672243491:0;cd
+: 1672243492:0;clear
+: 1672243494:0;cd .ca
+: 1672243497:0;cd .cache
+: 1672243497:0;ls
+: 1672243583:0;dotdrop import ~/.oh-my-zsh
+: 1672243590:0;cd ..
+: 1672243592:0;cd dotfiles
+: 1672243592:0;clear
+: 1672243595:0;dotdrop import ~/.oh-my-zsh
+: 1672243596:0;clear
+: 1672243598:0;git add --all
+: 1672243605:0;cd dotfiles
+: 1672243606:0;ls
+: 1672243610:0;cd oh-my-zsh
+: 1672243617:0;ls
+: 1672243623:0;cd plugins
+: 1672243624:0;ls
+: 1672243627:0;cd ..
+: 1672243628:0;ls
+: 1672243629:0;cd ..
+: 1672243642:0;dotdrop remove ~/.oh-my-zsh
+: 1672243670:0;dotdrop --help
+: 1672243683:0;clear
+: 1672243684:0;exit
+: 1672243700:1;./dotdrop.sh --help
+: 1672243746:0;clear
+: 1672243757:0;dotdrop import ~/.oh-my-zsh/plugins
+: 1672243759:0;clear
+: 1672243760:0;nvim
+: 1672243762:0;ls
+: 1672243766:0;cd dotfiles
+: 1672243766:0;ls
+: 1672243773:0;cd oh-my-zsh
+: 1672243773:0;ls
+: 1672243778:0;clear
+: 1672243779:0;cd ..
+: 1672243780:0;lazygit
+: 1672243785:0;clear
+: 1672243785:0;sl
+: 1672243787:0;ls
+: 1672243788:0;cd oh-my-zsh
+: 1672243789:0;ls
+: 1672243790:0;ls -a
+: 1672243793:0;cd ..
+: 1672243794:0;ls -a
+: 1672243795:0;cd ..
+: 1672243796:0;clear
+: 1672243798:0;git add --all
+: 1672243804:0;git commit -m "Add zsh"
+: 1672243809:0;clear
+: 1672243824:0;gh repo create dotfiles
+: 1672243827:0;gh repo create
+: 1672243846:0;gh repo delete dotfiles
+: 1672243865:0;gh auth refresh -h github.com -s delete_repo
+: 1672243896:0;clear
+: 1672243896:0;ls
+: 1672243897:0;clear
+: 1672243900:0;gh repo delete dotfiles
+: 1672243914:0;clear
+: 1672243916:0;gh repo create
+: 1672243932:0;clear
+: 1672243933:0;cd ..
+: 1672243935:0;cd Pictures
+: 1672243936:0;cd Wallpapers
+: 1672243938:0;lazygit
+: 1672243942:0;git add --all
+: 1672243948:0;git commit -m "Add some wallpapers"
+: 1672243949:0;clear
+: 1672243950:0;git push
+: 1672243953:0;clear
+: 1672243954:0;cd ..
+: 1672243955:0;ls
+: 1672243955:0;cd ..
+: 1672243956:0;clear
+: 1672243956:0;ls
+: 1672243964:0;ll -a
+: 1672243986:0;nvim .shell.pre-oh-my-zsh
+: 1672243992:0;clear
+: 1672243993:0;ls
+: 1672244004:0;clear
+: 1672244005:0;ls
+: 1672244008:0;cd dev
+: 1672244008:0;ls
+: 1672244011:0;cd server_management
+: 1672244011:0;ls
+: 1672244012:0;cd ..
+: 1672244014:0;cd learn_arduino
+: 1672244014:0;ls
+: 1672244015:0;clear
+: 1672244016:0;git init
+: 1672244019:0;git add --all
+: 1672244024:0;git commit -m "Init"
+: 1672244025:0;clear
+: 1672244026:0;gh repo create
+: 1672244040:0;clear
+: 1672244041:0;cd ..
+: 1672244042:0;ls
+: 1672244044:0;cd cscript
+: 1672244044:0;ls
+: 1672244045:0;cd ..
+: 1672244046:0;clear
+: 1672244046:0;ls
+: 1672244062:0;clear
+: 1672244067:0;cd do
+: 1672244070:0;cd dotfiles
+: 1672244071:0;clear
+: 1672244079:0;./dotdrop.sh import ~/.config/starship.toml
+: 1672244086:0;ls
+: 1672244089:0;ll
+: 1672244092:0;ls -a
+: 1672244096:0;nvim .gitmodules
+: 1672244101:0;ls
+: 1672244105:0;cd dotfiles
+: 1672244105:0;ls
+: 1672244108:0;cd config
+: 1672244109:0;ls
+: 1672244109:0;cd nvim
+: 1672244110:0;ls -a
+: 1672244116:0;cd ..
+: 1672244118:0;clear
+: 1672244121:0;git add --all
+: 1672244126:0;git commit -m "Add starship"
+: 1672244127:0;clear
+: 1672244128:0;git push
+: 1672244130:0;clear
+: 1672244131:0;ls
+: 1672244132:0;clear
+: 1672244197:0;ls /dev
+: 1672244228:0;clear
+: 1672244230:0;ls /dev
+: 1672244255:0;clear
+: 1672244257:0;yay -S thunar
+: 1672244268:0;clear
+: 1672244291:0;ls
+: 1672244292:0;clear
+: 1672244302:0;yay -Rns thunar
+: 1672244304:0;clear
+: 1672244309:0;cd
+: 1672244309:0;clear
+: 1672244310:0;cd /dev
+: 1672244312:0;ls
+: 1672244411:0;cfdisk
+: 1672244417:0;cd
+: 1672244419:0;clear
+: 1672244424:0;ls
+: 1672244426:0;clear
+: 1672244431:0;ls /mnt
+: 1672244432:0;ls
+: 1672244433:0;clear
+: 1672244549:0;ls /dev | grep "s"
+: 1672244567:0;clear
+: 1672244568:0;exit
+: 1672244572:0;ls /dev
+: 1672244595:0;clear
+: 1672244597:0;sudo reboot
+: 1672244654:0;ls /dev
+: 1672244678:0;clear
+: 1672244724:0;yay -S  	balena-etcher 
+: 1672245032:0;clear
+: 1672245062:0;./Downloads/balenaEtcher-1.10.2-x64.AppImage
+: 1672245069:0;chmod +x ./Downloads/balenaEtcher-1.10.2-x64.AppImage
+: 1672245070:0;./Downloads/balenaEtcher-1.10.2-x64.AppImage
+: 1672245095:0;mv ./Downloads/balenaEtcher-1.10.2-x64.AppImage ~/.local/bin/balena.AppImage
+: 1672245099:0;clear
+: 1672245103:0;balena.AppImage
+: 1672245116:0;clear
+: 1672245162:0;ls
+: 1672245171:0;clear
+: 1672245177:0;cd .config
+: 1672245178:0;cd kitty
+: 1672245178:0;clear
+: 1672245178:0;ls
+: 1672245179:0;clear
+: 1672245180:0;nvim
+: 1672245206:0;clear
+: 1672245208:0;cd
+: 1672245210:0;clear
+: 1672245241:0;ls
+: 1672245241:0;l
+: 1672245241:0;sls
+: 1672245242:0;l
+: 1672245244:0;ll
+: 1672245247:0;l
+: 1672245251:0;clear
+: 1672245271:0;ls
+: 1672245271:0;clear
+: 1672245273:0;cd .config
+: 1672245274:0;ls
+: 1672245282:0;cd "Arduino IDE"
+: 1672245283:0;ls
+: 1672245296:0;cd ..
+: 1672245311:0;cat Arduino\ IDE/eulaAccepted
+: 1672245322:0;clear
+: 1672245324:0;cd ..
+: 1672245325:0;clear
+: 1672245325:0;ls
+: 1672245328:0;clear
+: 1672245329:0;cd dotfiles
+: 1672245330:0;ls
+: 1672245334:0;cd dotdrop
+: 1672245334:0;ls
+: 1672245342:0;nvim setup.py
+: 1672245352:0;clear
+: 1672245353:0;cd
+: 1672245354:0;clear
+: 1672245356:0;ls
+: 1672245361:0;clear
+: 1672245363:0;tree
+: 1672245379:0;clear
+: 1672245382:0;ls /dev
+: 1672245400:0;sudo mount /dev/snd /mnt/usb
+: 1672245408:0;mkdir /mnt/usb
+: 1672245411:0;sudo mkdir /mnt/usb
+: 1672245416:0;sudo mount /dev/snd /mnt/usb
+: 1672245429:0;cat /dev/random
+: 1672245434:0;clear
+: 1672245437:0;exit
+: 1672245450:0;btop
+: 1672245469:0;clear
+: 1672245504:0;cd /tmp
+: 1672245504:0;clear
+: 1672245505:0;gh repo clone catppuccin/btop
+: 1672245508:0;cd btop
+: 1672245509:0;clear
+: 1672245509:0;ls
+: 1672245523:0;cp catppuccin_* ~/.config/btop/themes
+: 1672245524:0;clear
+: 1672245525:0;cd
+: 1672245525:0;clear
+: 1672245526:0;btop
+: 1672245550:0;clear
+: 1672245550:0;btop
+: 1672245553:0;clear
+: 1672245554:0;ls
+: 1672245556:0;cd .config
+: 1672245558:0;cd btop
+: 1672245558:0;clear
+: 1672245559:0;nvim
+: 1672245582:0;clear
+: 1672245583:0;btop
+: 1672245587:0;clear
+: 1672245589:0;cd ~/dotfiles
+: 1672245590:0;clear
+: 1672245596:0;dotdrop import ~/.config/btop
+: 1672245597:0;clear
+: 1672245598:0;exit
+: 1672245600:0;cd .config
+: 1672245602:0;cd dot
+: 1672245604:0;cd ..
+: 1672245605:0;cd dotfiles
+: 1672245606:0;celar
+: 1672245606:0;clear
+: 1672245608:0;git add --all
+: 1672245613:0;git commit -m "Add btop"
+: 1672245614:0;clear
+: 1672245615:0;git push
+: 1672245617:0;clear
+: 1672245618:0;exit
+: 1672245621:0;sudo poweroff
+: 1672246227:0;lsusb
+: 1672246251:0;sudo pacman -S lsusb
+: 1672246272:0;clear
+: 1672246274:0;yay -S lsbusb
+: 1672246279:0;yay -S lsusb
+: 1672246296:0;lsusb
+: 1672246329:0;yay -S lsplug
+: 1672246341:0;clear
+: 1672246343:0;lsplug
+: 1672246386:0;susb
+: 1672246388:0;lsplug
+: 1672246392:0;clear
+: 1672246400:0;balena.AppImage
+: 1672246411:0;clear
+: 1672246449:0;sudo pacman -S aria2
+: 1672246452:0;clear
+: 1672246473:0;aria2c Downloads/archlinux-2022.12.01-x86_64.iso.torrent
+: 1672249859:0;clear
+: 1672249888:0;exit
+: 1672249895:0;nvim .config/hypr
+: 1672257909:0;killall Hyprland
+: 1672257918:0;exit
+: 1672258015:0;sudo pacman -S bluetooth
+: 1672258033:0;sudo pacman -S bluez
+: 1672258038:0;clear
+: 1672258042:0;sudo pacman -S bluez-utils
+: 1672258047:0;clear
+: 1672258058:0;sudo systemctl enable bluetooth.service
+: 1672258060:0;clear
+: 1672258066:0;sudo systemctl start bluetooth.service
+: 1672258067:0;clear
+: 1672258088:0;sudo pacman -S blueman
+: 1672258091:0;clear
+: 1672258094:0;exit
+: 1672258168:0;sudo pacman -S pulseaudio-bluetooth
+: 1672258176:0;clear
+: 1672258177:0;exit
+: 1672258210:0;bluetoothctl
+: 1672258283:0;clear
+: 1672258284:0;sudo reboot
+: 1672258334:0;bluetoothctl
+: 1672258406:0;clear
+: 1672258410:0;sudo pacman -U /var/cache/pacman/pkg/bluez-5.61-1-x86_64.pkg.tar.zst /var/cache/pacman/pkg/bluez-libs-5.61-1-x86_64.pkg.tar.zst /var/cache/pacman/pkg/bluez-utils-5.61-1-x86_64.pkg.tar.zst
+: 1672258444:0;sudo systemctl status bluetooth.service
+: 1672258453:0;bluetoothctl
+: 1672258531:0;clear
+: 1672258531:0;exit
+: 1672260959:0;xit
+: 1672260961:0;exit
+: 1672260964:0;sudo poweroff
+: 1672383548:0;cd .config
+: 1672383548:0;clear
+: 1672383549:0;nvim
+: 1672383638:0;clear
+: 1672383645:0;exit
+: 1672383672:0;cd .config
+: 1672383673:0;clear
+: 1672383673:0;nvim
+: 1672385126:0;clear
+: 1672385127:0;yay -S xdg-desktop-portal-hyprland-git
+: 1672385188:0;clear
+: 1672385189:0;exit
+: 1672385265:0;xdg-mime query default inode/directory
+: 1672385271:0;exit
+: 1672385336:0;nvim ~/.config/mimeapps.list
+: 1672385352:0;clear
+: 1672385364:0;gh auth login
+: 1672385402:0;clearar
+: 1672385404:0;clear
+: 1672385404:0;exit
+: 1672385521:0;cd .config
+: 1672385522:0;nvim
+: 1672385525:0;ls
+: 1672385528:0;cd ranger
+: 1672385528:0;ls
+: 1672385531:0;ls -a
+: 1672385534:0;nvim rc.conf
+: 1672385544:0;clear
+: 1672385545:0;exit
+: 1672385547:0;ranger
+: 1672385565:0;clear
+: 1672385583:0;exot
+: 1672385584:0;exit
+: 1672385637:0;pip install pillow
+: 1672385640:0;clear
+: 1672385642:0;ranger
+: 1672385646:0;clear
+: 1672385647:0;exit
+: 1672385736:0;cargo install bat
+: 1672385742:0;clear
+: 1672385742:0;ranger
+: 1672385748:0;clear
+: 1672385750:0;cargo install bat
+: 1672385822:0;clear
+: 1672385823:0;ranger
+: 1672385874:0;clear
+: 1672385914:0;yay -S ffmpeg
+: 1672385920:0;yay -S ffmpeg ffmpegthumbnailer
+: 1672385938:0;yay -S ffmpegthumbnailer
+: 1672385945:0;clear
+: 1672385961:0;cd .config
+: 1672385962:0;cd ranger
+: 1672385963:0;clear
+: 1672385968:0;ranger --copy-config=scope
+: 1672385975:0;clear
+: 1672385975:0;ls
+: 1672385976:0;nvim
+: 1672386048:0;cp rc.conf rc.conf.bak
+: 1672386055:0;ranger --copy-config=rc
+: 1672386056:0;clear
+: 1672386057:0;nvim
+: 1672386072:0;rm rc.conf
+: 1672386073:0;clear
+: 1672386075:0;ranger --copy-config=rc
+: 1672386076:0;nvim
+: 1672396252:0;clear
+: 1672396252:0;ranger
+: 1672396265:0;clear
+: 1672396270:0;pip install pipx
+: 1672396276:0;pipx install yt-dlp
+: 1672396283:0;ranger
+: 1672396295:0;clear
+: 1672396295:0;exit
+: 1672396307:0;clear
+: 1672396308:0;cd ..
+: 1672396309:0;cd Downloads
+: 1672396310:0;clear
+: 1672396314:0;yt-dlp 'https://www.youtube.com/watch?v=7ap3CkBEpOE'
+: 1672396335:0;clear
+: 1672396336:0;ranger
+: 1672396347:0;clear
+: 1672396347:0;ls
+: 1672396349:0;rm -rf *
+: 1672396351:0;clear
+: 1672396351:0;ls
+: 1672396352:0;clear
+: 1672396353:0;exit
+: 1672396360:0;ranger
+: 1672396362:0;cmatrixrix
+: 1672396364:0;cmatrix
+: 1672396369:0;clear
+: 1672396370:0;exit
+: 1672396428:0;ranger
+: 1672396476:0;xdg-open
+: 1672396480:0;clear
+: 1672396505:0;nvim
+: 1672396512:0;cd .config
+: 1672396512:0;clear
+: 1672396514:0;nvim mimeapps.list
+: 1672396539:0;clear
+: 1672396556:0;ranger
+: 1672396563:0;clear
+: 1672396563:0;ls
+: 1672396564:0;clear
+: 1672396567:0;export EDITOR=nvim
+: 1672396570:0;ranger
+: 1672396577:0;clear
+: 1672396582:0;nvim ~/.zshenv
+: 1672396588:0;nvim ~/.zshrc
+: 1672396604:0;clear
+: 1672396605:0;exit
+: 1672396606:0;ranger
+: 1672396619:0;clear
+: 1672396619:0;nvim
+: 1672396622:0;clear
+: 1672396623:0;ranger
+: 1672396640:0;export EDITOR=nvim
+: 1672396641:0;ranger
+: 1672396647:0;clear
+: 1672396647:0;exit
+: 1672396670:0;cd .local
+: 1672396671:0;cd share
+: 1672396672:0;ls
+: 1672396676:0;mkdir applications
+: 1672396677:0;cd applications
+: 1672396678:0;clear
+: 1672396681:0;nvim nvim.desktop
+: 1672396716:0;clear
+: 1672396743:0;sudo rm /usr/share/applications/nvim.desktop
+: 1672396747:0;clear
+: 1672396764:0;ls
+: 1672396765:0;clear
+: 1672396766:0;cd
+: 1672396767:0;clear
+: 1672396769:0;exit
+: 1672396788:0;cd .config
+: 1672396788:0;clear
+: 1672396789:0;nvim
+: 1672396815:0;clear
+: 1672396820:0;ranger
+: 1672396825:0;clear
+: 1672396834:0;rangerer
+: 1672396835:0;ranger
+: 1672396862:0;ls -F
+: 1672396883:0;git clone https://github.com/cdump/ranger-devicons2 ~/.config/ranger/plugins/devicons2
+: 1672396884:0;clear
+: 1672396886:0;nvim
+: 1672396937:0;ranger
+: 1672396942:0;nvim
+: 1672396956:0;clear
+: 1672396957:0;ranger
+: 1672397013:0;cargo install zoxide
+: 1672397021:0;clear
+: 1672397049:0;sudo pacman -S autojump
+: 1672397057:0;yay -S auztojump
+: 1672397060:0;yay -S autojump
+: 1672397072:0;j
+: 1672397075:0;clear
+: 1672397076:0;cd
+: 1672397076:0;clear
+: 1672397078:0;nvim .zhshrc
+: 1672397083:0;nvim .zshrc
+: 1672397097:0;clear
+: 1672397101:0;source .zshrc
+: 1672397102:0;clear
+: 1672397103:0;exit
+: 1672397105:0;j
+: 1672397147:0;yay -S autojump -Rns autojump
+: 1672397153:0;yay -Rns autojump
+: 1672397159:0;clear
+: 1672397187:0;cd /tmptmp
+: 1672397189:0;cd /tmop
+: 1672397191:0;cd /tmp
+: 1672397192:0;git clone git://github.com/wting/autojump.git
+: 1672397217:0;clear
+: 1672397218:0;exit
+: 1672397220:0;cd /tmp
+: 1672397222:0;git clone git://github.com/wting/autojump.git
+: 1672397231:0;gh repo clone wting/autojump
+: 1672397234:0;clear
+: 1672397235:0;cd autojump
+: 1672397235:0;clear
+: 1672397236:0;ls
+: 1672397236:0;clear
+: 1672397240:0;./install.py
+: 1672397252:0;nvim ~/.zshrc
+: 1672397261:0;clear
+: 1672397262:0;exit
+: 1672397274:0;j
+: 1672397276:0;clear
+: 1672397278:0;exit
+: 1672397282:0;cd dev
+: 1672397283:0;j dev
+: 1672397287:0;clear
+: 1672397288:0;cd ..
+: 1672397289:0;j dev
+: 1672397297:0;clear
+: 1672397298:0;nvim
+: 1672397302:0;nvim .zshrc
+: 1672397325:0;cd /tmp
+: 1672397326:0;cd autojump
+: 1672397327:0;clear
+: 1672397328:0;./uninstall.py
+: 1672397330:0;clear
+: 1672397330:0;cd
+: 1672397331:0;clear
+: 1672397333:0;cd
+: 1672397334:0;exit
+: 1672397335:0;cd
+: 1672397336:0;clear
+: 1672397341:0;cargo install zoxide
+: 1672397387:0;cd .config
+: 1672397389:0;git clone git@github.com:jchook/ranger-zoxide.git ~/.config/ranger/plugins/zoxide
+: 1672397399:0;clear
+: 1672397416:0;cd ranger
+: 1672397417:0;cd plugins
+: 1672397417:0;clear
+: 1672397421:0;git clone https://github.com/jchook/ranger-zoxide.git
+: 1672397428:0;clear
+: 1672397429:0;ranger
+: 1672397436:0;clear
+: 1672397438:0;ranger
+: 1672397447:0;cd ..
+: 1672397450:0;cd dev
+: 1672397453:0;cd cscript
+: 1672397454:0;clear
+: 1672397455:0;cd ..
+: 1672397457:0;cd .config
+: 1672397458:0;clear
+: 1672397458:0;ls
+: 1672397459:0;clear
+: 1672397459:0;cd ..
+: 1672397463:0;cd silva
+: 1672397464:0;clear
+: 1672397467:0;cd /
+: 1672397468:0;z dev
+: 1672397472:0;zoxide dev
+: 1672397478:0;zoxide --help
+: 1672397483:0;cd
+: 1672397484:0;clear
+: 1672397486:0;zoxide init
+: 1672397491:0;zoxide init zsh
+: 1672397526:0;:q
+: 1672397527:0;clear
+: 1672397530:0;nvim .zshrc
+: 1672397537:0;clear
+: 1672397538:0;exit
+: 1672397540:0;z
+: 1672397541:0;clear
+: 1672397543:0;z dev
+: 1672397544:0;clear
+: 1672397548:0;cd ..
+: 1672397552:0;nvim .zshrc
+: 1672397564:0;clear
+: 1672397566:0;z defv
+: 1672397568:0;z dev
+: 1672397569:0;clear
+: 1672397598:0;cd /tmp
+: 1672397599:0;clear
+: 1672397600:0;git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf\
+~/.fzf/install
+: 1672397619:0;clear
+: 1672397620:0;cd
+: 1672397620:0;clear
+: 1672397621:0;exit
+: 1672397625:0;nvim .zshrc
+: 1672397631:0;clear
+: 1672397633:0;fzf
+: 1672397638:0;clear
+: 1672397646:0;zi
+: 1672397654:0;clear
+: 1672397655:0;exit
+: 1672397684:0;ranger
+: 1672397688:0;clear
+: 1672397746:0;git clone https://github.com/MuXiu1997/ranger-fzf-filter.git ~/.config/ranger/plugins/ranger_fzf_filter
+: 1672397748:0;clear
+: 1672397749:0;ranger
+: 1672397755:0;clear
+: 1672397757:0;ranger
+: 1672397762:0;exit
+: 1672397768:0;ranger
+: 1672397778:0;clear
+: 1672397779:0;exit
+: 1672397918:0;nvim .config/hypr
+: 1672397932:0;clear
+: 1672397942:0;ls
+: 1672397943:0;clear
+: 1672397944:0;ls
+: 1672397955:0;mkdir ISOs
+: 1672397962:0;mv archlinux-2022.12.01-x86_64.iso ISOs
+: 1672397965:0;clear
+: 1672397968:0;ls
+: 1672397973:0;clear
+: 1672397974:0;cd dotfiles
+: 1672397975:0;clear
+: 1672397975:0;ls
+: 1672397976:0;clear
+: 1672397983:0;dotdrop import ~/.config/ranger
+: 1672397984:0;clear
+: 1672397990:0;ls ~/.config
+: 1672398003:0;clear
+: 1672398005:0;yay -S htop
+: 1672398010:0;clear
+: 1672398012:0;htop
+: 1672398018:0;clear
+: 1672398022:0;yay -Rns htop
+: 1672398026:0;clear
+: 1672398029:0;ls ~/.config
+: 1672398039:0;ls
+: 1672398041:0;clear
+: 1672398046:0;dotdrop import ~/.config/mimeapps.list
+: 1672398050:0;clear
+: 1672398051:0;ls
+: 1672398054:0;clear
+: 1672398056:0;git add --all
+: 1672398061:0;ls
+: 1672398064:0;clear
+: 1672398066:0;ls
+: 1672398074:0;cd dotfiles
+: 1672398075:0;ls
+: 1672398078:0;cd config
+: 1672398078:0;ls
+: 1672398080:0;cd ranger
+: 1672398080:0;clear
+: 1672398081:0;ls
+: 1672398104:0;cd ..
+: 1672398108:0;clear
+: 1672398114:0;dotdrop remove ~/.config/ranger
+: 1672398118:0;clear
+: 1672398118:0;cd
+: 1672398119:0;cd .config
+: 1672398120:0;cd ranger
+: 1672398120:0;ls
+: 1672398121:0;cd plugins
+: 1672398122:0;sl
+: 1672398122:0;ls
+: 1672398126:0;ls -a
+: 1672398128:0;cd devicons2
+: 1672398129:0;ls
+: 1672398131:0;rm -rf .git
+: 1672398132:0;ls -a
+: 1672398136:0;cd ..
+: 1672398136:0;ls
+: 1672398139:0;cd ranger
+: 1672398141:0;cd ranger_fzf_filter
+: 1672398143:0;rm -rf .git
+: 1672398145:0;ls -a
+: 1672398147:0;cd ..
+: 1672398154:0;cd ranger-zoxide
+: 1672398155:0;ls
+: 1672398157:0;rm -rf .git
+: 1672398158:0;clear
+: 1672433568:0;exit
+: 1672433585:0;ranger
+: 1672433596:0;fzf
+: 1672433607:0;exit
+: 1672433614:0;sudo poweroff
+: 1672466924:0;gh --help
+: 1672466967:0;gh repo --help
+: 1672466991:0;clear
+: 1672467035:0;$ ssh-keygen -t ed25519 -C "silvan.genius@gmail.com"
+: 1672467040:0;ssh-keygen -t ed25519 -C "silvan.genius@gmail.com"
+: 1672467137:0;eval "$(ssh-agent -s)"
+: 1672467153:0;ssh-add ~/.ssh/github_key
+: 1672467188:0;gh --help
+: 1672467199:0;gh ssh-key
+: 1672467205:0;gh ssh-key list
+: 1672467227:0;gh auth refresh -h github.com -s admin:public_key
+: 1672467251:0;clear
+: 1672467255:0;gh ssh-key list
+: 1672467264:0;gh ssh-key delete ARCH
+: 1672467281:0;gh ssh-key delete ssh-ed25519
+: 1672467291:0;gh ssh-key delete 70381772
+: 1672467296:0;clear
+: 1672467403:0;mv ~/.ssh/github_key ~/.ssh/github_key_0000
+: 1672467404:0;clear
+: 1672467433:0;mv ~/.ssh/github_key.pub github_key_0000.pub
+: 1672467500:0;clear
+: 1672467528:0;ls ~/.ssh
+: 1672467530:0;ls ~
+: 1672467534:0;mv github_key_0000.pub ~/.ssh
+: 1672467542:0;cat ~/.ssh/github_key_0000.pub
+: 1672467615:0;clear
+: 1672467629:0;yay -Rns gh
+: 1672467637:0;yay -Rns github-cli
+: 1672467639:0;clear
+: 1672467677:0;git clone git@github.com:Genius1512/todo.git
+: 1672467684:0;clear
+: 1672467684:0;ls
+: 1672467688:0;rm -rf todo
+: 1672467689:0;clear
+: 1672467706:0;git clone https://github.com/Genius1512/todo.git
+: 1672467710:0;clear
+: 1672467711:0;exit
+: 1672467725:0;yay -S github-cli
+: 1672467731:0;clear
+: 1672467734:0;gh auth login
+: 1672467740:0;clear
+: 1672467746:0;gh auth --help
+: 1672467751:0;gh auth status
+: 1672467763:0;gh auth refresh --help
+: 1672467775:0;gh auth --help
+: 1672467781:0;gh auth logout
+: 1672467782:0;clear
+: 1672467784:0;gh auth login
+: 1672467890:0;clear
+: 1672467890:0;ls
+: 1672467890:0;clear
+: 1672467891:0;exit
+: 1672467894:0;sudo poweroff
+: 1672467900:0;poweroff
+: 1672486353:0;ls
+: 1672486353:0;clear
+: 1672486357:0;cd dev
+: 1672486357:0;clear
+: 1672486358:0;ls
+: 1672486358:0;clear
+: 1672486456:0;cargo new effi --lib
+: 1672486458:0;cd dev
+: 1672486460:0;cd effi
+: 1672486461:0;clear
+: 1672486462:0;nvim
+: 1672486466:0;clear
+: 1672486466:0;ls
+: 1672486467:0;clear
+: 1672486468:0;nvim
+: 1672486486:0;clear
+: 1672486515:0;mkdir -p src/bin/effi_cli
+: 1672486519:0;mkdir -p src/bin/effi_tui
+: 1672486520:0;clear
+: 1672486527:0;touch src/bin/*/main.rs
+: 1672486535:0;touch src/bin/effi_cli/main.rs
+: 1672486539:0;touch src/bin/effi_tui/main.rs
+: 1672486539:0;clear
+: 1672486540:0;nvim
+: 1672487274:0;clear
+: 1672487282:0;cargo install watch
+: 1672487295:0;cargo install cargo-watch
+: 1672487408:0;clear
+: 1672487410:0;cargo watch
+: 1672487433:0;rustc --explain E0390
+: 1672487453:0;clear
+: 1672487454:0;nvim
+: 1672487549:0;clear
+: 1672487550:0;cargo watch
+: 1672487573:0;cear
+: 1672487573:0;clear
+: 1672487574:0;nvim
+: 1672488368:0;clear
+: 1672488372:0;tmux
+: 1672488388:0;cargo watch
+: 1672488392:0;nvim
+: 1672488398:0;cargo add rand
+: 1672488401:0;clear
+: 1672488402:0;cargo build
+: 1672488406:0;clear
+: 1672488447:0;cargo install bacon
+: 1672488645:0;clear
+: 1672488646:0;bacon
+: 1672489084:0;clear
+: 1672489084:0;nvim
+: 1672490088:0;mkdir tests
+: 1672490089:0;clear
+: 1672490141:0;touch tests/id_tests.rs
+: 1672490142:0;clear
+: 1672490142:0;nvim
+: 1672490233:0;clear
+: 1672490234:0;cargo test
+: 1672490251:0;clear
+: 1672490252:0;ls
+: 1672490253:0;clear
+: 1672490302:0;cargo test --nocapture
+: 1672490305:0;cargo test -- --nocapture
+: 1672490310:0;clear
+: 1672492179:0;cargo add serde --feature derive 
+: 1672492183:0;cargo add serde --features derive 
+: 1672492189:0;cargo add serde_json
+: 1672492191:0;clear
+: 1672492205:0;nvim
+: 1672499548:0;clear
+: 1672499554:0;bacon test
+: 1672499562:0;bacon
+: 1672499639:0;exit
+: 1672499708:0;cd dev
+: 1672499722:0;git clone git@github.com:Genius1512/todo.git
+: 1672499745:0;gh repo clone Genius1512/todo
+: 1672499748:0;clear
+: 1672499748:0;ls
+: 1672499749:0;cd todo
+: 1672499750:0;celar
+: 1672499751:0;clear
+: 1672499751:0;ls
+: 1672499752:0;clear
+: 1672499753:0;cargo install
+: 1672499759:0;cargo install --path .
+: 1672499773:0;clear
+: 1672499776:0;cd
+: 1672499777:0;clear
+: 1672499778:0;todo
+: 1672499781:0;todo init
+: 1672499791:0;todo init Home
+: 1672499793:0;clear
+: 1672499793:0;todo
+: 1672499796:0;todo get
+: 1672499815:0;todo add "Do homework"
+: 1672499817:0;todo get
+: 1672499831:0;cat ~/.local/share/todo/todo.json
+: 1672500217:0;clera
+: 1672500218:0;clear
+: 1672500219:0;nvim
+: 1672500223:0;cargo build
+: 1672500226:0;clear
+: 1672500231:0;./target/debug/effi_cli
+: 1672500233:0;clear
+: 1672500234:0;cargo run
+: 1672500261:0;clear
+: 1672500410:0;cargo run
+: 1672500872:0;claer
+: 1672500873:0;clear
+: 1672500874:0;exit
+: 1672500877:0;clear
+: 1672500878:0;cd
+: 1672500878:0;clear
+: 1672500880:0;cd .config
+: 1672500881:0;cd ranger
+: 1672500882:0;ls
+: 1672500885:0;cd plugins
+: 1672500885:0;clear
+: 1672500887:0;tree
+: 1672500898:0;touch .hidden
+: 1672500901:0;tree
+: 1672500907:0;tree --hidden
+: 1672500941:0;clear
+: 1672500941:0;ls
+: 1672500946:0;cd ranger-zoxide
+: 1672500946:0;ls
+: 1672500948:0;ls -a
+: 1672500950:0;cd ..
+: 1672500955:0;cd dotfiles
+: 1672500956:0;clear
+: 1672500956:0;ls
+: 1672500957:0;clear
+: 1672500959:0;dotdrop list
+: 1672500964:0;dotdrop files
+: 1672500979:0;dotdrop import ~/.config/ranger
+: 1672500983:0;git add --all
+: 1672500990:0;git commit -m "Add ranger"
+: 1672501013:0;cd
+: 1672501015:0;cd .config
+: 1672501016:0;cd ranger
+: 1672501016:0;ls
+: 1672501018:0;ls -a
+: 1672501021:0;cd plugins
+: 1672501021:0;ls
+: 1672501025:0;ls -a
+: 1672501029:0;nvim .gitignore
+: 1672501040:0;clear
+: 1672501041:0;ls
+: 1672501042:0;clear
+: 1672501042:0;nvim
+: 1672501051:0;nvim .gitignore
+: 1672501060:0;clear
+: 1672501063:0;nvim
+: 1672501072:0;ls
+: 1672501074:0;cd devicons2
+: 1672501074:0;ls
+: 1672501076:0;nvim
+: 1672501081:0;cd
+: 1672501082:0;clear
+: 1672501084:0;cd dotfiles
+: 1672501084:0;clear
+: 1672501091:0;dotdrop remove ~/.config/ranger
+: 1672501094:0;clear
+: 1672501097:0;git add --all
+: 1672501108:0;git commit -m "Remove ranger, had __pycache__"
+: 1672501110:0;clear
+: 1672501110:0;ls
+: 1672501112:0;clear
+: 1672501114:0;ls -a
+: 1672501119:0;nvim .gitignore
+: 1672501145:0;clear
+: 1672501146:0;lazygit
+: 1672501151:0;clear
+: 1672501156:0;dotdrop import ~/.config/ranger
+: 1672501158:0;clear
+: 1672501163:0;lazygit
+: 1672501174:0;clear
+: 1672501177:0;git add --all
+: 1672501182:0;git commit -m "Readd ranger"
+: 1672501187:0;git push
+: 1672501189:0;clear
+: 1672501190:0;exit
+: 1672503058:0;cat ~/dev/effi/src/todo.rs
+: 1672507333:0;clear
+: 1672507334:0;ls
+: 1672507335:0;clear
+: 1672507336:0;exit
+: 1672507446:0;clear
+: 1672507447:0;ls
+: 1672507447:0;clear
+: 1672507459:0;hyprctl
+: 1672507462:0;hyprctl monitors
+: 1672507467:0;cd .config
+: 1672507468:0;clear
+: 1672507469:0;nvim
+: 1672507663:0;clear
+: 1672507664:0;nvim
+: 1672507681:0;hyprpaper
+: 1672507685:0;clear
+: 1672507686:0;exit
+: 1672507693:0;reboot
+: 1672507770:0;hyprctl monitors
+: 1672507783:0;cd .config
+: 1672507783:0;clear
+: 1672507784:0;nvim
+: 1672507814:0;clear
+: 1672507815:0;exit
+: 1672507837:0;cd .config
+: 1672507837:0;clera
+: 1672507838:0;clear
+: 1672507839:0;nvim
+: 1672508498:0;exit
+: 1672508500:0;clear
+: 1672508501:0;exit
+: 1672508674:0;cd .config
+: 1672508675:0;nvim
+: 1672508697:0;clear
+: 1672508758:0;ls
+: 1672508759:0;clear
+: 1672508765:0;cd dev
+: 1672508767:0;cd effi
+: 1672508768:0;clear
+: 1672508768:0;nvim
+: 1672508779:0;cd
+: 1672508780:0;cd dev
+: 1672508781:0;cd effi
+: 1672508782:0;clear
+: 1672508786:0;bacon
+: 1672508815:0;cd dev
+: 1672508816:0;cd effi
+: 1672508818:0;clear
+: 1672508861:0;ls
+: 1672508863:0;clear
+: 1672508866:0;cd dev
+: 1672508868:0;cd effi
+: 1672508868:0;clear
+: 1672509842:0;cargo test
+: 1672509845:0;clear
+: 1672509846:0;ls
+: 1672509847:0;clear
+: 1672520484:0;killall kitty
+: 1672520487:0;poweroff
+: 1672561685:0;exit
+: 1672561708:0;suspend
+: 1672561713:0;clear
+: 1672561718:0;yay -S tldr
+: 1672561723:0;clear
+: 1672561726:0;tldr suspend
+: 1672561736:0;yay -S man
+: 1672561742:0;clear
+: 1672561744:0;man suspend
+: 1672561746:0;clear
+: 1672561756:0;suspend --help
+: 1672561797:0;systemctl suspend
+: 1672561817:0;cd .configco
+: 1672561817:0;clear
+: 1672561825:0;cd .configcoco
+: 1672561827:0;cd .config
+: 1672561827:0;clear
+: 1672561829:0;nvim
+: 1672562051:0;npm install json-format-cli -g
+: 1672562060:0;sudo npm install json-format-cli -g
+: 1672562078:0;clear
+: 1672562082:0;yay -Rns npm
+: 1672562088:0;clear
+: 1672562090:0;yay -S nvm
+: 1672562099:0;clear
+: 1672562123:0;yay -Rns nvm
+: 1672562124:0;clear
+: 1672562134:0;curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+: 1672562146:0;nvim ~/.zshrc
+: 1672562161:0;clear
+: 1672562163:0;exit
+: 1672562167:0;nvm install node
+: 1672562178:0;clear
+: 1672562185:0;npm install json-format-cli -g
+: 1672562191:0;clear
+: 1672562192:0;cd .config
+: 1672562193:0;clear
+: 1672562195:0;cd waybar
+: 1672562204:0;json-format config
+: 1672562210:0;nvim
+: 1672562300:0;json-format config
+: 1672562301:0;clear
+: 1672562302:0;nvim
+: 1672562412:0;clear
+: 1672562418:0;nvim
+: 1672566137:0;clear
+: 1672566137:0;cd ..
+: 1672566138:0;clear
+: 1672566139:0;nvim
+: 1672566155:0;clear
+: 1672566200:0;nvim
+: 1672566575:0;clear
+: 1672566581:0;ls
+: 1672566581:0;clear
+: 1672566583:0;exit
+: 1672566750:0;yay -S eww-wayland
+: 1672566944:0;clear
+: 1672566955:0;eww
+: 1672566962:0;eww daemon
+: 1672566966:0;clear
+: 1672566966:0;ls
+: 1672566967:0;cd .config
+: 1672566968:0;clear
+: 1672566970:0;mkdir eww
+: 1672566971:0;clear
+: 1672566972:0;cd eww
+: 1672566973:0;clear
+: 1672566973:0;ls
+: 1672566973:0;clear
+: 1672567022:0;touch eww.yuck eww.scss
+: 1672567023:0;clear
+: 1672567024:0;nvim
+: 1672567223:0;eww daemon
+: 1672567226:0;nvim
+: 1672567233:0;clear
+: 1672567235:0;eww daemon
+: 1672567241:0;eww open example
+: 1672567248:0;eww
+: 1672567255:0;eww kill
+: 1672567256:0;clear
+: 1672567258:0;eww daemon
+: 1672567275:0;nvim
+: 1672567290:0;clear
+: 1672567293:0;eww daemon
+: 1672567296:0;eww kill
+: 1672567297:0;eww daemon
+: 1672567300:0;eww list
+: 1672567302:0;eww
+: 1672567315:0;eww windows
+: 1672567318:0;eww open example
+: 1672567340:0;nvim
+: 1672567622:0;clear
+: 1672567635:0;hyprpicker
+: 1672567642:0;nvim
+: 1672568373:0;clear
+: 1672568375:0;cd /tmp
+: 1672568375:0;clera
+: 1672568376:0;clear
+: 1672568379:0;gh repo clone rxyhn/tokyo
+: 1672568384:0;clear
+: 1672568386:0;cd
+: 1672568387:0;clear
+: 1672568395:0;cd .config
+: 1672568395:0;clear
+: 1672568396:0;cd eww
+: 1672568397:0;clear
+: 1672568409:0;cp /tmp/tokyo/config/eww/dashboard .
+: 1672568418:0;cp -r /tmp/tokyo/config/eww/dashboard .
+: 1672568420:0;clear
+: 1672568421:0;ls
+: 1672568422:0;clear
+: 1672568428:0;rm eww.scss eww.yuck
+: 1672568429:0;clear
+: 1672568436:0;eww kill
+: 1672568437:0;clear
+: 1672568440:0;eww windows
+: 1672568445:0;eww daemon
+: 1672568448:0;clear
+: 1672569306:0;yay -S brigtenessctl
+: 1672569312:0;yay -S brightenessctl
+: 1672569329:0;yay -S brightnessctl playerctl
+: 1672569337:0;clear
+: 1672569341:0;playerctl --help
+: 1672569357:0;playerctl volumne "
+: 1672569359:0;playerctl volumne +
+: 1672569362:0;playerctl volume +
+: 1672569368:0;clear
+: 1672569388:0;yay -Rns pulseaudio pipewire bluez bluez-utils
+: 1672569444:0;yay -Rns blueman
+: 1672569447:0;clear
+: 1672569451:0;yay -Rns pulseaudio pipewire bluez bluez-utils
+: 1672569461:0;yay -Rns pipewire-audio
+: 1672569478:0;yay -Rns pulseaudio-bluetooth
+: 1672569496:0;yay -Rns bluez
+: 1672569498:0;clear
+: 1672569501:0;yay -Rns pulseaudio pipewire bluez bluez-utils
+: 1672569510:0;yay -Rns bluez-utils
+: 1672569516:0;yay -Rns pulseaudio pipewire bluez bluez-utils
+: 1672569519:0;yay -Rns pulseaudio pipewire
+: 1672569527:0;yay -Rns pipewire
+: 1672569544:0;yay -Rns pipewire-audio
+: 1672569551:0;yay -Rns pipewire-alsa
+: 1672569554:0;yay -Rns pipewire-jack
+: 1672569571:0;yay -Rns ffmpeg
+: 1672569579:0;clear
+: 1672569584:0;yay -Rns pipewire
+: 1672569592:0;yay -Rns wireplumber
+: 1672569607:0;yay -Rns xdg-desktop-portal
+: 1672569622:0;yay -Rns xdg-desktop-portal-hyprland-git
+: 1672569626:0;yay -Rns xdg-desktop-portal
+: 1672569628:0;clear
+: 1672569632:0;yay -Rns pipewire
+: 1672569648:0;yay -Rns libwireplumber
+: 1672569656:0;yay -Rns wireplumber
+: 1672569665:0;yay -Rns gst-plugin-pipewire
+: 1672569684:0;yay -Rns pipewire-jack
+: 1672569690:0;yay -Rns pipewire
+: 1672569698:0;yay -Rns pipewire-audio
+: 1672569741:0;clear
+: 1672569747:0;cd
+: 1672569748:0;clear
+: 1672569752:0;yay -Rns pipewire
+: 1672569762:0;yay -Rns wireplumber
+: 1672569772:0;yay -Rns pipewire-session-manager
+: 1672569777:0;yay -Rns pipewire-session-jack
+: 1672569780:0;yay -Rns pipewire-jack
+: 1672569792:0;yay -Rns ffmpegthumbnailer
+: 1672569814:0;yay -R firefox
+: 1672569817:0;clear
+: 1672569826:0;yay -Rns pipewire-jack
+: 1672569835:0;yay -R ffmpeg
+: 1672569838:0;yay -Rns pipewire-jack
+: 1672569840:0;clear
+: 1672569842:0;yay -Rns pipewire
+: 1672569849:0;yay -Rns wireplumber
+: 1672569854:0;yay -Rns libwireplumber
+: 1672569858:0;yay -Rns pipewire
+: 1672569859:0;clear
+: 1672569860:0;ls
+: 1672569861:0;clear
+: 1672569869:0;yay -S pipewire
+: 1672569875:0;clear
+: 1672569875:0;ls
+: 1672569876:0;clear
+: 1672569879:0;pipewire
+: 1672569884:0;clear
+: 1672569887:0;yay -S ffmpe
+: 1672569889:0;yay -S ffmpeg
+: 1672569903:0;clear
+: 1672569905:0;yay -S firefos
+: 1672569907:0;yay -S firefox
+: 1672569910:0;clear
+: 1672569918:0;ls
+: 1672569919:0;clear
+: 1672569921:0;yay -S bluez
+: 1672569927:0;yay -S bluez-utils
+: 1672569929:0;clear
+: 1672569933:0;bluetoothctl
+: 1672569983:0;clear
+: 1672569988:0;systemctl enable bluetooth
+: 1672569998:0;systemctl enable bluetooth.service
+: 1672570004:0;sudo systemctl enable bluetooth.service
+: 1672570013:0;sudo systemctl status bluetooth.service
+: 1672570039:0;clear
+: 1672570045:0;yay -Rns bluez blue-utils
+: 1672570048:0;yay -Rns bluez bluez-utils
+: 1672570050:0;clear
+: 1672570052:0;yay -Rns pipewire
+: 1672570066:0;yay -Rns ffmpegthumbnailer ffmpeg 
+: 1672570071:0;yay -Rns ffmpeg 
+: 1672570077:0;yay -Rns firefox
+: 1672570083:0;clear
+: 1672570086:0;yay -Rns pipewire
+: 1672570092:0;yay -Rns pipewire-jack
+: 1672570096:0;yay -Rns ffmpeg
+: 1672570100:0;yay -Rns pipewire
+: 1672570102:0;clear
+: 1672570359:0;yay -Rns playerctl brightnessctl
+: 1672570366:0;clear
+: 1672570369:0;yay -S pipewire
+: 1672570373:0;clear
+: 1672570408:0;yay -S wireplumber
+: 1672570410:0;clear
+: 1672570463:0;yay -S pipewire-alsa
+: 1672570466:0;clear
+: 1672570478:0;yay -S pipewire-pulse
+: 1672570486:0;clear
+: 1672570502:0;sudo systemctl start pipewire-pulse.service
+: 1672570510:0;reboot
+: 1672570561:0;pactl info
+: 1672570568:0;clear
+: 1672570575:0;yay -S pipewire-jack
+: 1672570579:0;clear
+: 1672570583:0;yay -S firefox
+: 1672570601:0;clear
+: 1672570637:0;yay -S bluez bluez-utils
+: 1672570641:0;clear
+: 1672570651:0;pipewire
+: 1672570654:0;clear
+: 1672570903:0;brightnessctl
+: 1672570907:0;yay -S brightnessctl
+: 1672570917:0;yay -S brightnessctl playerctl
+: 1672570921:0;clear
+: 1672570923:0;brightnessctl
+: 1672570928:0;brightnessctl --help
+: 1672570938:0;brightnessctl set 50%
+: 1672570953:0;brightnessctl set 17%
+: 1672570955:0;clear
+: 1672570959:0;playerctl
+: 1672570963:0;playerctl volume
+: 1672570973:0;playerctl volume 0.5
+: 1672570987:0;clear
+: 1672570990:0;cd .config
+: 1672570990:0;clear
+: 1672570991:0;nvim
+: 1672571113:0;wireplumber
+: 1672571117:0;wireplumber --help
+: 1672571144:0;yay -S pamixer
+: 1672571147:0;clear
+: 1672571156:0;pamixer -i 5
+: 1672571161:0;pamixer -i 5%
+: 1672571168:0;pamixer -i 5
+: 1672571184:0;clear
+: 1672571185:0;pactl
+: 1672571187:0;pactl --help
+: 1672571213:0;pactl set-sink-volume @DEFAULT_SINK@ +5%
+: 1672571276:0;clear
+: 1672571279:0;wpctl
+: 1672571294:0;wpctl set-volume 0 5%+
+: 1672571312:0;wpctl set-volume
+: 1672571318:0;wpctl
+: 1672571324:0;wpctl status
+: 1672571489:0;wpctl inspect 48
+: 1672571492:0;clear
+: 1672571495:0;wpctl inspect 0
+: 1672571503:0;wpctl set-volume 48 5%+
+: 1672571506:0;clear
+: 1672571559:0;wpctl set-volume
+: 1672571568:0;wpctl status
+: 1672571574:0;clear
+: 1672571581:0;sudo systemctl status
+: 1672571710:0;clear
+: 1672571717:0;sudo systemctl status wireplumber
+: 1672571725:0;systemctl status
+: 1672571743:0;sudo systemctl status wireplumber.service
+: 1672571756:0;sudo systemctl enable wireplumber.service
+: 1672571757:0;clear
+: 1672571758:0;reboot
+: 1672571811:0;systemctl status
+: 1672571822:0;wireplumber
+: 1672572155:0;clear
+: 1672572157:0;exit
+: 1672572410:0;yay -S freecad-git
+: 1672572680:0;clear
+: 1672572683:0;yay -S freecad-appimage
+: 1672572787:0;clear
+: 1672572788:0;exit
+: 1672573544:0;ls
+: 1672573547:0;cd Downloads
+: 1672573548:0;clear
+: 1672573548:0;ls
+: 1672573553:0;unzip Snap_Buckle_5685273.zip
+: 1672573659:0;exit
+: 1672573897:0;killall freecad
+: 1672573898:0;clear
+: 1672573899:0;exit
+: 1672574772:0;cd Downloads
+: 1672574773:0;clear
+: 1672574777:0;unzip Chess_Set_as_STL_169785.zip
+: 1672574783:0;clear
+: 1672574783:0;ls
+: 1672574786:0;cd files
+: 1672574786:0;ls
+: 1672574988:0;exit
+: 1672576509:0;ls
+: 1672576510:0;clear
+: 1672576493:0;ls
+: 1672576494:0;clear
+: 1672576517:0;sudo systemctl status bluetooth.service
+: 1672576522:0;clear
+: 1672576536:0;exit
+: 1672576550:0;ls
+: 1672576551:0;clear
+: 1672576551:0;exit
+: 1672576576:0;bluetoothctl
+: 1672576709:0;clear
+: 1672576714:0;sudo pacman -S blueman
+: 1672576722:0;clear
+: 1672576722:0;exit
+: 1672576799:0;waybar
+: 1672576821:0;clear
+: 1672576822:0;cd .config
+: 1672576822:0;clear
+: 1672576824:0;nvim
+: 1672576845:0;clear
+: 1672576845:0;ls
+: 1672576846:0;clear
+: 1672576878:0;waybar
+: 1672576887:0;nvim
+: 1672576891:0;clear
+: 1672576892:0;nvim
+: 1672576900:0;clear
+: 1672576902:0;waybar
+: 1672577179:0;reboot
+: 1672577251:0;cd .config
+: 1672577251:0;clear
+: 1672577252:0;nvim
+: 1672577267:0;clear
+: 1672577269:0;waybar
+: 1672577273:0;yay -Rns waybar
+: 1672577282:0;sudo pacman -Rns waybar
+: 1672577283:0;clear
+: 1672577366:0;yay -Rns waybar-hyprland-git
+: 1672577400:0;yay -H
+: 1672577403:0;yay --help
+: 1672577413:0;yay -R waybar
+: 1672577416:0;yay -l
+: 1672577419:0;yay --help
+: 1672577468:0;pacman -Q
+: 1672577480:0;pacman -Q | grep "waybar"
+: 1672577485:0;yay -Rns waybar-git
+: 1672577487:0;clear
+: 1672577498:0;yay -S waybar-hyprland-git
+: 1672577772:0;clear
+: 1672577774:0;waybar
+: 1672577842:0;nvim
+: 1672577844:0;clear
+: 1672577845:0;nvim
+: 1672577865:0;systemctl suspend
+: 1672578693:0;clear
+: 1672578702:0;exit
+: 1672578806:0;poweroff
+: 1672588472:0;ls
+: 1672588472:0;clear
+: 1672588476:0;waybar
+: 1672588723:0;wireplumber
+: 1672588735:0;waybar
+: 1672588738:0;wireplumber
+: 1672588762:0;sudo pacman -S xdg-desktop-portal
+: 1672588783:0;clear
+: 1672588785:0;waybar
+: 1672588793:0;wireplumber
+: 1672588799:0;clear
+: 1672588800:0;wireplumber
+: 1672588802:0;clear
+: 1672588806:0;nvim
+: 1672588808:0;cd .config
+: 1672588809:0;clear
+: 1672588809:0;ls
+: 1672588811:0;clear
+: 1672588812:0;nvim
+: 1672588857:0;clear
+: 1672588859:0;waybar
+: 1672588866:0;clear
+: 1672588874:0;nvim
+: 1672588946:0;sudo pacman -S libwireplumber
+: 1672588948:0;clear
+: 1672588951:0;waybar
+: 1672589090:0;clear
+: 1672589091:0;nvim
+: 1672589164:0;clear
+: 1672589165:0;waybar
+: 1672589168:0;nvim
+: 1672589181:0;waybar
+: 1672589194:0;clear
+: 1672589254:0;nvim
+: 1672589473:0;exit
+: 1672589716:0;killall firefox
+: 1672589718:0;exit
+: 1672590311:0;clear
+: 1672590312:0;ls
+: 1672590313:0;clear
+: 1672590413:0;nvim
+: 1672590534:0;clear
+: 1672590534:0;nvim
+: 1672590588:0;clear
+: 1672590589:0;nvim
+: 1672590626:0;clear
+: 1672590626:0;nvim
+: 1672590890:0;wofi --show drun --allow-images
+: 1672590961:0;clear
+: 1672590963:0;wofi --help
+: 1672590979:0;wofi --show drun --width 400
+: 1672591105:0;clear
+: 1672591189:0;yay -S xdg-desktop-portal
+: 1672591191:0;clear
+: 1672591198:0;yay -S xdg-desktop-portal-hyprland-git
+: 1672591214:0;clear
+: 1672591217:0;xdg-open ranger
+: 1672591220:0;xdg-open ranger.desktop
+: 1672591224:0;clear
+: 1672591227:0;cd /usr/share/applications
+: 1672591228:0;clear
+: 1672591228:0;ls
+: 1672591233:0;xdg-open ranger.desktop
+: 1672591254:0;sudo nvim ranger.desktop
+: 1672591267:0;clear
+: 1672591284:0;ls
+: 1672591293:0;sudo cp ranger.desktop nvim.desktop
+: 1672591294:0;clear
+: 1672591294:0;nvim
+: 1672591308:0;sudo nvim nvim.desktop
+: 1672591354:0;clear
+: 1672591364:0;sudo nvim nvim.desktop
+: 1672591423:0;clear
+: 1672591424:0;cd
+: 1672591424:0;clear
+: 1672591425:0;nvim
+: 1672591448:0;clear
+: 1672591448:0;exit
+: 1672591454:0;clear
+: 1672591457:0;nvim
+: 1672591516:0;exit
+: 1672591725:0;clear
+: 1672591726:0;wpctl
+: 1672591732:0;wpctl status
+: 1672591736:0;clear
+: 1672591750:0;exit
+: 1672591899:0;killall firefox
+: 1672591901:0;exit
+: 1672591949:0;yay -Rns blueman
+: 1672591964:0;clear
+: 1672591975:0;sudo pacman -Rns pipewire
+: 1672591981:0;sudo pacman -Rns firefox
+: 1672591986:0;sudo pacman -Rns ffmpeg
+: 1672591999:0;sudo pacman -Rns pipewire
+: 1672592012:0;sudo pacman -Rns xdg-desktop-portal
+: 1672592017:0;sudo pacman -Rns xdg-desktop-portal-hyprland-git
+: 1672592021:0;sudo pacman -Rns pipewire
+: 1672592025:0;sudo pacman -Rns xdg-desktop-portal
+: 1672592037:0;sudo pacman -Rns pipewire
+: 1672592044:0;sudo pacman -Rns wireplumber
+: 1672592068:0;sudo pacman -Rns waybar-hyprland-git
+: 1672592071:0;sudo pacman -Rns wireplumber
+: 1672592076:0;sudo pacman -Rns pipewire-alsa
+: 1672592079:0;sudo pacman -Rns pipewire-jack
+: 1672592084:0;sudo pacman -Rns pipewire-pulse
+: 1672592089:0;sudo pacman -Rns pipewire
+: 1672592099:0;sudo pacman -Rns wireplumber libwireplumber
+: 1672592101:0;sudo pacman -Rns pipewire
+: 1672592104:0;clear
+: 1672592104:0;ls
+: 1672592105:0;clear
+: 1672592154:0;yay -S pipewire
+: 1672592157:0;clear
+: 1672592163:0;yay -S libwireplumber
+: 1672592169:0;yay -S wireplumber
+: 1672592231:0;wpctl
+: 1672592233:0;wpctl status
+: 1672592240:0;sudo pacman -S pavucontrol
+: 1672592243:0;clear
+: 1672592245:0;pavucontrol
+: 1672592273:0;sudo pacman -S pipewire-alsa pipewire-pulse
+: 1672592275:0;clear
+: 1672592302:0;sudo pacman -S pipewire-jack
+: 1672592304:0;clear
+: 1672592324:0;reboot
+: 1672592452:0;pactl info
+: 1672592469:0;sudo pacman -S ffmpeg firefox
+: 1672592479:0;clear
+: 1672592556:0;wpctl status
+: 1672592564:0;clear
+: 1672592568:0;sudo pacman -S waybar-git
+: 1672592577:0;yay -S waybar-hyprland-git
+: 1672592602:0;systemctl status bluetooth.service
+: 1672592607:0;clear
+: 1672592610:0;bluetoothctl
+: 1672592739:0;exit
+: 1672592772:0;cd .config
+: 1672592772:0;clear
+: 1672592773:0;nvim
+: 1672592795:0;waybar
+: 1672592804:0;wpctl status
+: 1672592809:0;clear
+: 1672592816:0;wpctl set-volume
+: 1672592820:0;wpctl status
+: 1672592832:0;wpctl set-volume 61 
+: 1672592845:0;wpctl set-volume 61 0.5%+
+: 1672592854:0;wpctl set-volume 62 0.5%+
+: 1672592866:0;wpctl set-volume 62 5%-
+: 1672592875:0;wpctl get-volume
+: 1672592877:0;wpctl get-volume 62
+: 1672592937:0;echo $(wpctl get-volume 62)
+: 1672592964:0;echo ${$(wpctl get-volume 62):3}
+: 1672592990:0;VOL=$(wpctl get-volume 62); echo ${VOL:3}
+: 1672592994:0;VOL=$(wpctl get-volume 62); echo ${VOL:7}
+: 1672592997:0;VOL=$(wpctl get-volume 62); echo ${VOL:8}
+: 1672593000:0;VOL=$(wpctl get-volume 62); echo ${VOL:10}
+: 1672593009:0;nvim
+: 1672593136:0;clear
+: 1672593147:0;nvim
+: 1672593214:0;clear
+: 1672593220:0;wpctl set-volume 62 5%-
+: 1672593228:0;nvim
+: 1672593259:0;wpctl set-volume 62 5%-
+: 1672593264:0;wpctl set-volume 62 5%+
+: 1672593270:0;clear
+: 1672593316:0;nvim
+: 1672593364:0;clear
+: 1672593365:0;exit
+: 1672593516:0;cd .config
+: 1672593516:0;clear
+: 1672593517:0;nvim
+: 1672593537:0;clear
+: 1672593545:0;waybar
+: 1672593547:0;nvim
+: 1672593561:0;clear
+: 1672593566:0;nvim
+: 1672593614:0;ls
+: 1672593615:0;clear
+: 1672593663:0;cd /usr/share/a
+: 1672593665:0;cd /usr/share/applications
+: 1672593668:0;clear
+: 1672593668:0;ls
+: 1672593675:0;clear
+: 1672593683:0;cp ranger.desktop hyprpicker.desktop
+: 1672593687:0;sudo cp ranger.desktop hyprpicker.desktop
+: 1672593690:0;clear
+: 1672593691:0;nvim
+: 1672593695:0;sudo nvim hyprpicker.desktop
+: 1672593738:0;sudo rm hyprpicker.desktop
+: 1672593739:0;clear
+: 1672593747:0;exit
+: 1672593753:0;cd .config
+: 1672593753:0;clear
+: 1672593754:0;nvim
+: 1672593826:0;clear
+: 1672593901:0;exit
+: 1672593966:0;strings
+: 1672593969:0;clear
+: 1672593970:0;ls
+: 1672593972:0;cd .local
+: 1672593973:0;ls
+: 1672593974:0;cd bin
+: 1672593974:0;ls
+: 1672593978:0;strings pipx
+: 1672593985:0;strings yt-dlp
+: 1672593995:0;strings arduino-cli
+: 1672594001:0;clear
+: 1672594006:0;cd
+: 1672594007:0;clear
+: 1672594012:0;sudo pacman -S golang
+: 1672594018:0;sudo pacman -S go
+: 1672594023:0;clear
+: 1672594024:0;go
+: 1672594025:0;clear
+: 1672594134:0;exitxit
+: 1672594135:0;exit
+: 1672594710:0;oweroff
+: 1672594711:0;poweroff
+: 1672598894:0;cd .config
+: 1672598895:0;clear
+: 1672598896:0;nvim
+: 1672598917:0;clear
+: 1672598926:0;hyprctl
+: 1672598935:0;hyprctl kill
+: 1672598939:0;clear
+: 1672598944:0;killall Hyprland
+: 1672598971:0;nvim ~/.config/hypr/hyprland.conf
+: 1672598980:0;clear
+: 1672598986:0;killall Hyprland
+: 1672599052:0;poweroff
+: 1672599059:0;sudo poweroff
+: 1672654154:0;ls
+: 1672654154:0;clear
+: 1672654155:0;ls
+: 1672654156:0;clear
+: 1672654163:0;4;9ufire
+: 1672654157:0;3
+: 1672654187:0;cd .configdev
+: 1672654189:0;cd dev
+: 1672654189:0;clear
+: 1672654190:0;ls
+: 1672654201:0;exit
+: 1672654204:0;cd dev
+: 1672654205:0;clear
+: 1672654205:0;ls
+: 1672654208:0;clear
+: 1672654215:0;mv effi effi-core
+: 1672654217:0;mkdir effi
+: 1672654221:0;mv effi-core effi
+: 1672654222:0;clear
+: 1672654225:0;cd effi
+: 1672654226:0;clearls
+: 1672654227:0;clear
+: 1672654227:0;ls
+: 1672654229:0;cd effi-core
+: 1672654229:0;clear
+: 1672654229:0;ls
+: 1672654230:0;clear
+: 1672654231:0;nvim
+: 1672654244:0;clear
+: 1672654244:0;ls
+: 1672654246:0;nvim
+: 1672654250:0;clear
+: 1672654252:0;cargo build
+: 1672654262:0;clera
+: 1672654264:0;cargo clean
+: 1672654265:0;clear
+: 1672654266:0;cargo build
+: 1672654283:0;rm -rf target
+: 1672654285:0;cargo build
+: 1672654291:0;clear
+: 1672654291:0;ls
+: 1672654292:0;cd src
+: 1672654293:0;ls
+: 1672654295:0;rm -rf bin
+: 1672654295:0;cd ..
+: 1672654298:0;cargo build
+: 1672654310:0;clear
+: 1672654311:0;ls
+: 1672654312:0;clear
+: 1672654315:0;nvim
+: 1672654324:0;clear
+: 1672654327:0;lazygit
+: 1672654332:0;git add --all
+: 1672654338:0;git commit -m "Basic structure"
+: 1672654339:0;clear
+: 1672654340:0;cd ..
+: 1672654340:0;clear
+: 1672654341:0;ls
+: 1672654341:0;clear
+: 1672654352:0;cargo new effi-server
+: 1672654355:0;cargo new effi-cli
+: 1672654361:0;cargo new effi-tui
+: 1672654383:0;clear
+: 1672654383:0;ls
+: 1672654401:0;touch Cargo.toml
+: 1672654401:0;clear
+: 1672654402:0;nvim
+: 1672654434:0;clear
+: 1672654435:0;ls
+: 1672654437:0;cd effi-cli
+: 1672654437:0;clear
+: 1672654448:0;cargo add effi-core --path ../effi-core
+: 1672654450:0;clear
+: 1672654452:0;nvim
+: 1672654466:0;clear
+: 1672654466:0;cd ..
+: 1672654467:0;clear
+: 1672654468:0;cargo build
+: 1672654479:0;clear
+: 1672654479:0;nvim
+: 1672654486:0;clear
+: 1672654494:0;cp effi-core/.gitignore .
+: 1672654494:0;clear
+: 1672654495:0;nvim
+: 1672654501:0;nvim .gitignore 
+: 1672654511:0;clear
+: 1672654512:0;nvim
+: 1672654519:0;rm .gitignore
+: 1672654519:0;clear
+: 1672654520:0;ls
+: 1672654520:0;clear
+: 1672654523:0;ls
+: 1672654525:0;clear
+: 1672654544:0;cd effi-core
+: 1672654545:0;clear
+: 1672654546:0;nvim
+: 1672655176:0;clear
+: 1672655177:0;bacon
+: 1672655192:0;clear
+: 1672655193:0;nvim
+: 1672655289:0;clear
+: 1672655292:0;cargo check
+: 1672655297:0;nvim
+: 1672655438:0;clear
+: 1672655441:0;cargo check
+: 1672655449:0;clear
+: 1672655450:0;nvim
+: 1672659413:0;cargo check
+: 1672659416:0;clear
+: 1672659417:0;nvim
+: 1672659439:0;clear
+: 1672659440:0;cargo check
+: 1672659446:0;nvim
+: 1672659649:0;clear
+: 1672659650:0;cargo test
+: 1672659656:0;clear
+: 1672659657:0;nvim
+: 1672659858:0;clear
+: 1672659859:0;cargo test
+: 1672659870:0;nvim
+: 1672659906:0;clear
+: 1672659907:0;cargo test
+: 1672659915:0;clear
+: 1672659916:0;nvim
+: 1672659945:0;cargo test
+: 1672659954:0;clear
+: 1672659955:0;nvim
+: 1672660183:0;cargo check
+: 1672660190:0;cargo test
+: 1672660204:0;nvim
+: 1672660505:0;clear
+: 1672660508:0;cargo test
+: 1672660525:0;clear
+: 1672660527:0;lazygit
+: 1672660538:0;git add --all
+: 1672660547:0;git commit -m "Add TodoManager.filter()"
+: 1672660548:0;clear
+: 1672660549:0;nvim
+: 1672660971:0;clear
+: 1672660972:0;cargo test
+: 1672660980:0;clear
+: 1672661000:0;cargo add thiserror
+: 1672661002:0;clear
+: 1672661005:0;cargo build
+: 1672661008:0;clear
+: 1672661009:0;nvim
+: 1672661779:0;clear
+: 1672661781:0;cargo test
+: 1672661790:0;clear
+: 1672661791:0;nvim
+: 1672662039:0;clear
+: 1672662040:0;cargo test
+: 1672662043:0;clear
+: 1672662048:0;git add --all
+: 1672662054:0;git commit -m "Add TodoManager.add()"
+: 1672662055:0;clear
+: 1672662141:0;nvim
+: 1672677413:0;clear
+: 1672677413:0;exit
+: 1672677423:0;cd dev
+: 1672677424:0;clera
+: 1672677426:0;cd effi
+: 1672677427:0;clear
+: 1672677427:0;ls
+: 1672677428:0;clear
+: 1672677430:0;cd effi-core
+: 1672677430:0;clear
+: 1672677431:0;nvim
+: 1672677950:0;clear
+: 1672677951:0;cargo test
+: 1672677975:0;clear
+: 1672677976:0;nvim
+: 1672678025:0;clear
+: 1672678027:0;cargo test
+: 1672678029:0;clear
+: 1672678067:0;nvim
+: 1672678843:0;cargo test
+: 1672678858:0;nvim
+: 1672678881:0;clear
+: 1672678883:0;cargo test
+: 1672678897:0;rustc --explain E0515
+: 1672678920:0;clera
+: 1672679012:0;clear
+: 1672679013:0;nvim
+: 1672679848:0;clera
+: 1672679849:0;clear
+: 1672679852:0;cargo test
+: 1672679856:0;nvim
+: 1672679883:0;clera
+: 1672679884:0;clear
+: 1672679885:0;cargo test
+: 1672679914:0;nvim
+: 1672679951:0;clera
+: 1672679952:0;clear
+: 1672679953:0;cargo test
+: 1672679958:0;clear
+: 1672679971:0;lazygit
+: 1672679980:0;clear
+: 1672679981:0;git add --all
+: 1672679988:0;git commit -m "Add TodoManager.remove()"
+: 1672679989:0;clear
+: 1672680055:0;bluetoothctl
+: 1672680151:0;clear
+: 1672680153:0;bluetoothctl
+: 1672680246:0;clear
+: 1672680247:0;exit
+: 1672680257:0;cd .config
+: 1672680257:0;clear
+: 1672680258:0;nvim
+: 1672680294:0;exitt
+: 1672680295:0;exit
+: 1672680575:0;cd .config
+: 1672680576:0;clear
+: 1672680576:0;nvim
+: 1672680649:0;clear
+: 1672680649:0;exit
+: 1672680665:0;clear
+: 1672680665:0;ls
+: 1672680666:0;clear
+: 1672680881:0;4;9ufire
+: 1672680882:0;clear
+: 1672680960:0;cd .config
+: 1672680960:0;clear
+: 1672680961:0;nvim
+: 1672681252:0;clear
+: 1672681276:0;nvim
+: 1672681845:0;clear
+: 1672681912:0;nvim
+: 1672681931:0;clear
+: 1672681934:0;cd nvim.config
+: 1672681934:0;clear
+: 1672681934:0;ls
+: 1672681936:0;cd astronvim
+: 1672681936:0;clear
+: 1672681937:0;cd lua
+: 1672681938:0;ls
+: 1672681941:0;cd user
+: 1672681941:0;clear
+: 1672681943:0;nvim
+: 1672681975:0;clear
+: 1672681975:0;nvim
+: 1672681983:0;clear
+: 1672681985:0;nvim
+: 1672682016:0;clear
+: 1672682016:0;exit
+: 1672682018:0;nvim
+: 1672682039:0;clear
+: 1672682041:0;exit
+: 1672686029:0;hyprpicker
+: 1672686043:0;nvim
+: 1672686076:0;hyprctl reload
+: 1672686078:0;clear
+: 1672686082:0;hyprpicker
+: 1672686093:0;nvimim
+: 1672686094:0;nvim
+: 1672686108:0;clear
+: 1672686108:0;exit
+: 1672686116:0;killall Hyprland
+: 1672686138:0;nvim
+: 1672686163:0;clear
+: 1672686166:0;hyprctl
+: 1672686178:0;hyprctl reload
+: 1672686181:0;hyprctl -j
+: 1672686184:0;hyprctl -j reload
+: 1672686188:0;clear
+: 1672686188:0;ls
+: 1672686189:0;clear
+: 1672686197:0;hyprctl reload -j
+: 1672686199:0;clear
+: 1672686210:0;exit
+: 1672686226:0;nmtui
+: 1672686231:0;clear
+: 1672686244:0;sudo systemctl stop NetworkManager.service
+: 1672686250:0;clear
+: 1672686258:0;sudo systemctl start NetworkManager.service
+: 1672686262:0;clear
+: 1672686323:0;exit
+: 1672686325:0;nvim
+: 1672686364:0;exit
+: 1672686441:0;clear
+: 1672686441:0;cd .config
+: 1672686442:0;clear
+: 1672686443:0;nvim
+: 1672686468:0;hyprpicker
+: 1672686514:0;exit
+: 1672686538:0;clear
+: 1672686539:0;nvim
+: 1672686568:0;clear
+: 1672686573:0;waybar
+: 1672686584:0;wpctl
+: 1672686598:0;wpctl info
+: 1672686603:0;wpctl status
+: 1672686613:0;wpctl set-default 41
+: 1672686619:0;wpctl set-default 46
+: 1672686620:0;clear
+: 1672686628:0;ls
+: 1672686629:0;clear
+: 1672686636:0;cd waybar
+: 1672686637:0;clear
+: 1672686637:0;nvim
+: 1672686650:0;sleep 10
+: 1672686652:0;clear
+: 1672686652:0;nvim
+: 1672686696:0;clear
+: 1672686699:0;ls
+: 1672686701:0;clear
+: 1672686702:0;cd
+: 1672686703:0;clear
+: 1672686704:0;ls
+: 1672686705:0;clear
+: 1672686719:0;btop
+: 1672686732:0;clear
+: 1672686931:0;yay -S playerctl brightnessctl
+: 1672686939:0;clear
+: 1672686942:0;playerctl
+: 1672686946:0;playerctl play
+: 1672686965:0;playerctl pause
+: 1672686968:0;playerctl play
+: 1672686973:0;playerctl puse
+: 1672686975:0;playerctl pause
+: 1672686983:0;cd .config
+: 1672686984:0;clear
+: 1672686985:0;nvim
+: 1672687078:0;clear
+: 1672687079:0;cd ..
+: 1672687080:0;clear
+: 1672687083:0;cd .config
+: 1672687083:0;clear
+: 1672687084:0;nvim
+: 1672687092:0;clear
+: 1672687092:0;ls
+: 1672687096:0;cd waybar
+: 1672687096:0;ls
+: 1672687099:0;mkdir scripts
+: 1672687100:0;cd scripts
+: 1672687100:0;celar
+: 1672687102:0;clera
+: 1672687105:0;wget https://raw.githubusercontent.com/theCode-Breaker/riverwm/main/system_scripts/mediaplayer.py
+: 1672687106:0;clear
+: 1672687107:0;cd ..
+: 1672687108:0;clear
+: 1672687108:0;nvim
+: 1672687136:0;clear
+: 1672687139:0;pip install gi
+: 1672687141:0;clear
+: 1672687161:0;ls
+: 1672687163:0;clear
+: 1672687171:0;./scripts/mediaplayer.py
+: 1672687176:0;chmod +x ./scripts/mediaplayer.py
+: 1672687177:0;./scripts/mediaplayer.py
+: 1672687180:0;clear
+: 1672687225:0;pip install pgi
+: 1672687248:0;clear
+: 1672687263:0;sudo pacman -S python3-gi
+: 1672687268:0;clear
+: 1672687311:0;sudo pacman -S python-gobject gtk3
+: 1672687313:0;clear
+: 1672687316:0;./scripts/mediaplayer.py
+: 1672687320:0;clear
+: 1672687327:0;playerctl play
+: 1672687332:0;playerctl pause
+: 1672687333:0;clear
+: 1672687336:0;nvim
+: 1672687352:0;./scripts/mediaplayer.py 2
+: 1672687361:0;./scripts/mediaplayer.py
+: 1672687383:0;./scripts/mediaplayer.py -h
+: 1672687412:0;./scripts/mediaplayer.py --player \uf28b penguinz0 - This Game is $120 on Steam
+: 1672687417:0;playerctl
+: 1672687426:0;playerctl status
+: 1672687451:0;playerctl -l
+: 1672687469:0;vimn
+: 1672687470:0;nvim
+: 1672687491:0;clear
+: 1672687492:0;ls
+: 1672687493:0;cd scripts
+: 1672687493:0;ls
+: 1672687495:0;rm mediaplayer.py
+: 1672687498:0;clear
+: 1672687498:0;ls
+: 1672687499:0;clear
+: 1672687501:0;playerctl
+: 1672687512:0;playerctl -l
+: 1672687527:0;playerctl --player=firefox.instance123469 status
+: 1672687534:0;playerctl --player=firefox.instance123469 metadata
+: 1672687554:0;playerctl --player=firefox.instance123469 metadata title
+: 1672687570:0;playerctl metadata title
+: 1672687572:0;nvim
+: 1672687574:0;cd ..
+: 1672687575:0;clear
+: 1672687575:0;nvim
+: 1672687612:0;clear
+: 1672687619:0;playerctl play
+: 1672687653:0;wpctl
+: 1672687659:0;clear
+: 1672687660:0;nvim
+: 1672687676:0;clear
+: 1672687797:0;nvim
+: 1672688348:0;bluetoothctl
+: 1672688413:0;clear
+: 1672688415:0;bluetoothctl
+: 1672688538:0;sudo systemctl start pipewire
+: 1672688544:0;systemctl status
+: 1672688568:0;systemctl status pipewire.service
+: 1672688588:0;systemctl status /usr/bin/pipewire
+: 1672688608:0;systemctl status --user pipewire.service
+: 1672688624:0;systemctl enable pipewire-pulse.service --user
+: 1672688629:0;systemctl start pipewire-pulse.service --user
+: 1672688636:0;systemctl status --user pipewire-pulse.service
+: 1672688638:0;clear
+: 1672688640:0;bluetoothctl
+: 1672688717:0;sudo pacman -S bluez-hid2hci
+: 1672688719:0;clear
+: 1672688746:0;systemctl status bluetooth.service
+: 1672688767:0;bluetoothctl
+: 1672688841:0;exit
+: 1672689685:0;clera
+: 1672689686:0;cd
+: 1672689687:0;cd dev
+: 1672689688:0;clear
+: 1672689688:0;ls
+: 1672689691:0;cd effi
+: 1672689693:0;cd effi-core
+: 1672689694:0;clear
+: 1672689694:0;ls
+: 1672689694:0;clear
+: 1672689696:0;gh repo create
+: 1672689709:0;clear
+: 1672689735:0;gh
+: 1672689745:0;gh repo --help
+: 1672689752:0;gh repo create --help
+: 1672689769:0;gh repo create
+: 1672689783:0;clear
+: 1672689921:0;cd ..
+: 1672689924:0;rm -rf effi-core
+: 1672689924:0;clear
+: 1672689933:0;gh repo clone effi-todo/effi-core
+: 1672689935:0;ls
+: 1672689937:0;clear
+: 1672689939:0;cargo build
+: 1672689940:0;clear
+: 1672689950:0;ls
+: 1672689952:0;cd effi-cli
+: 1672689953:0;clear
+: 1672689956:0;lazygit
+: 1672689960:0;clear
+: 1672689962:0;git add --all
+: 1672689966:0;git commit -m "init"
+: 1672689968:0;clear
+: 1672689971:0;gh repo create
+: 1672689978:0;gh repo create effi-todo/effi-core
+: 1672689990:0;gh repo create effi-todo/effi-core --private
+: 1672690001:0;gh repo create effi-todo/effi-cli --private
+: 1672690004:0;clear
+: 1672690018:0;ls
+: 1672690020:0;clear
+: 1672690021:0;gh repo
+: 1672690027:0;gh repo edit
+: 1672690090:0;git remote add origin https://github.com/effi-todo/effi-core
+: 1672690092:0;clear
+: 1672690092:0;ls
+: 1672690095:0;clear
+: 1672690101:0;git remove -v
+: 1672690104:0;git remote -v
+: 1672690107:0;git push
+: 1672690114:0;git push --set-upstream origin main
+: 1672690123:0;git pull
+: 1672690129:0;git push --set-upstream origin main
+: 1672690139:0;clear
+: 1672690162:0;git remote remove origin
+: 1672690163:0;clear
+: 1672690165:0;git remove -v
+: 1672690167:0;git remote -v
+: 1672690169:0;clear
+: 1672690170:0;git remote add origin https://github.com/effi-todo/effi-cli.git\
+git branch -M main\
+git push -u origin main
+: 1672690173:0;clear
+: 1672690179:0;cd ..
+: 1672690180:0;clear
+: 1672690180:0;ls
+: 1672690183:0;cd effi-server
+: 1672690183:0;clear
+: 1672690185:0;git add --all
+: 1672690188:0;git commit -m "Init"
+: 1672690189:0;clear
+: 1672690191:0;gh repo create
+: 1672690210:0;clear
+: 1672690219:0;ls
+: 1672690219:0;cd ..
+: 1672690220:0;ls
+: 1672690223:0;cd effi-tui
+: 1672690224:0;clear
+: 1672690224:0;ls
+: 1672690224:0;clear
+: 1672690227:0;git add --all
+: 1672690231:0;git commit -m "Init"
+: 1672690232:0;clear
+: 1672690235:0;gh repo create
+: 1672690252:0;clear
+: 1672690264:0;exit
+: 1672730353:0;cd .config
+: 1672730353:0;clear
+: 1672730354:0;nvim
+: 1672730890:0;clear
+: 1672730892:0;playerctl
+: 1672730895:0;playerctl metadata
+: 1672730913:0;sudo pacman -S spotify
+: 1672730920:0;yay -S spotify
+: 1672730953:0;clear
+: 1672730973:0;spotify
+: 1672731001:0;libcurl-gnutls
+: 1672731019:0;/usr/lib/libcurl-gnutls.so.4.8.0
+: 1672731021:0;clear
+: 1672731025:0;yay -Rns spotify
+: 1672731030:0;clear
+: 1672731057:0;exit
+: 1672731190:0;ls
+: 1672731192:0;clear
+: 1672731200:0;hyprctl
+: 1672731205:0;hyprctl workspaces
+: 1672731208:0;hyprctl workspaces --help
+: 1672731215:0;hyprctl kill
+: 1672731221:0;hyprctl workspaces
+: 1672731234:0;hyprctl workspaces 3
+: 1672731246:0;hyprctl workspaces lastwindowtitle
+: 1672731247:0;clear
+: 1672731253:0;sleep 10
+: 1672731256:0;hyprctl workspaces
+: 1672731270:0;sleep 10; hyprctl workspaces
+: 1672731271:0;sleep 10
+: 1672731285:0;clear
+: 1672731285:0;exit
+: 1672731290:0;poweroff
+: 1672731293:0;sudo poweroff
+: 1672732405:0;cd .config
+: 1672732406:0;clear
+: 1672732480:0;yay -S sddm
+: 1672732487:0;clear
+: 1672732499:0;sudo systemctl disable ly.service
+: 1672732503:0;sudo systemctl stop ly.service
+: 1672732550:0;Hyprland
+: 1672732559:0;sudo systemctl enable sddm.service
+: 1672732564:0;clear
+: 1672732568:0;sudo systemctl start sddm.service
+: 1672732561:0;cd .config
+: 1672732562:0;clear
+: 1672733290:0;cd /tmp
+: 1672733290:0;clear
+: 1672733291:0;gh repo clone catppuccin/sddm
+: 1672733294:0;cd sddm
+: 1672733295:0;clear
+: 1672733295:0;ls
+: 1672733305:0;cd src
+: 1672733305:0;ls
+: 1672733325:0;cp catppuccin-mocha /usr/share/sddm/themes
+: 1672733328:0;cp -r catppuccin-mocha /usr/share/sddm/themes
+: 1672733331:0;sudo cp -r catppuccin-mocha /usr/share/sddm/themes
+: 1672733335:0;clear
+: 1672733358:0;sudo nvim /etc/sddm.conf
+: 1672733382:0;clear
+: 1672733394:0;sudo nvim /etc/sddm.conf
+: 1672733397:0;clear
+: 1672733398:0;exit
+: 1672733402:0;killall Hyprland
+: 1672733422:0;cd /usr/share
+: 1672733422:0;clear
+: 1672733454:0;cd ..
+: 1672733461:0;sudo chown silva ./share
+: 1672733465:0;clear
+: 1672733467:0;cd share
+: 1672733467:0;ls
+: 1672733469:0;clear
+: 1672733470:0;cd sddm
+: 1672733470:0;ls
+: 1672733474:0;cd themes
+: 1672733475:0;ls
+: 1672733484:0;nvim catppuccin-mocha/theme.conf
+: 1672733497:0;ls
+: 1672733499:0;cd catppuccin-mocha
+: 1672733500:0;ls
+: 1672733505:0;nvim
+: 1672733518:0;ranger
+: 1672733536:0;killall kitty
+: 1672733551:0;ls
+: 1672733552:0;clear
+: 1672733592:0;yay -Rns sddm
+: 1672733603:0;sudo systemctl disable sddm.service
+: 1672733605:0;clear
+: 1672733609:0;yay -S lightdm
+: 1672733612:0;clear
+: 1672733621:0;sudo systemctl enable lightdm.service
+: 1672733638:0;sudo systemctl stop sddm.service
+: 1672733641:0;sudo systemctl enable lightdm.service
+: 1672733655:0;sudo systemctl disable display-manager.service
+: 1672733662:0;yay -S sddm
+: 1672733671:0;sudo systemctl disable sddm.service
+: 1672733673:0;clear
+: 1672733675:0;yay -Rns sddm
+: 1672733681:0;sudo systemctl enable lightdm.service
+: 1672733682:0;clear
+: 1672733702:0;yay -S lightdm-webkit2-greeter
+: 1672733710:0;clear
+: 1672733714:0;killall Hyprland
+: 1672742850:0;yay -Rns lightdm-webkit2-greeter lightdm
+: 1672742857:0;clear
+: 1672742858:0;reboot
+: 1672742967:0;Hyprland
+: 1672742976:0;exit
+: 1672743033:0;sudo pacman -S lightdm
+: 1672743050:0;sudo pacman -S lightdm-webkit2-greeter
+: 1672743057:0;clear
+: 1672743087:0;sudo nvim /etc/lightdm/lightdm.conf
+: 1672743141:0;clear
+: 1672743148:0;lightdm --test-mode --debug
+: 1672743162:0;sudo pacman -S xephyr
+: 1672743323:0;sudo pacman -S xserver-xephyr
+: 1672743375:0;sudo pacman -S xorg-server-xephyr
+: 1672743379:0;clear
+: 1672743381:0;lightdm --test-mode --debug
+: 1672743407:0;sudo nvim /etc/lightdm/lightdm.conf
+: 1672743490:0;clear
+: 1672743492:0;lightdm --test-mode --debug
+: 1672743508:0;clear
+: 1672743583:0;systemctl status lightdm.service
+: 1672743592:0;sudo systemctl disable lightdm.service
+: 1672743599:0;sudo systemctl stop lightdm.service
+: 1672743610:0;sudo pacman -Rns lightdm
+: 1672743617:0;sudo pacman -Rns lightdm-webkit2-greeter
+: 1672743622:0;sudo pacman -Rns lightdm
+: 1672743626:0;clear
+: 1672743626:0;ls
+: 1672743628:0;clear
+: 1672743640:0;sudo systemctl enabme ly.service
+: 1672743647:0;sudo systemctl enable ly.service
+: 1672743648:0;clear
+: 1672743649:0;reboot
+: 1672743699:0;ls
+: 1672743700:0;clear
+: 1672743701:0;ls
+: 1672743701:0;clear
+: 1672743789:0;sudo pacman -S gdm
+: 1672743810:0;sudo pacman -Syu
+: 1672743844:0;clear
+: 1672743888:0;sudo pacman -S gdm
+: 1672743894:0;clear
+: 1672743935:0;yay -S gdm-git
+: 1672743995:0;clear
+: 1672744109:0;sudo systemctl disable ly.service
+: 1672744110:0;clear
+: 1672744131:0;sudo nvim /etc/gdm/custom.conf
+: 1672744150:0;clear
+: 1672744158:0;sudo systemctl enable gdm.service
+: 1672744160:0;clear
+: 1672744161:0;reboot
+: 1672744238:0;exit
+: 1672744258:0;logout
+: 1672744259:0;clear
+: 1672744262:0;reboot
+: 1672744356:0;sudo systemctl disable gdm.service
+: 1672744362:0;yay -Rns gdm
+: 1672744366:0;clear
+: 1672744392:0;cd /tmp
+: 1672744392:0;clear
+: 1672744394:0;git clone https://aur.archlinux.org/gdm-git.git
+: 1672744397:0;cd gdm-git
+: 1672744397:0;clear
+: 1672744398:0;ls
+: 1672744399:0;clear
+: 1672744404:0;nvim
+: 1672744553:0;clear
+: 1672744555:0;makepkg -si
+: 1672744578:0;sudo pacman -S arch-meson
+: 1672744581:0;yay -S meson
+: 1672744585:0;makepkg -si
+: 1672744591:0;ls
+: 1672744601:0;rm -rf gdm pkg src
+: 1672744602:0;clear
+: 1672744602:0;ls
+: 1672744621:0;clear
+: 1672744624:0;makepkg -si
+: 1672744646:0;sudo pacman -S accountsservice
+: 1672744649:0;makepkg -si
+: 1672744655:0;ls
+: 1672744657:0;cd gdm
+: 1672744658:0;ls
+: 1672744663:0;cd ..
+: 1672744664:0;cd pkg
+: 1672744665:0;ls
+: 1672744671:0;sudo ls
+: 1672744673:0;cd ..
+: 1672744673:0;ls
+: 1672744675:0;cd src
+: 1672744675:0;ls
+: 1672744678:0;rm -rf build
+: 1672744679:0;cd ..
+: 1672744683:0;makepkg -si
+: 1672744720:0;sudo systemctl enable gdm.service
+: 1672744721:0;clear
+: 1672744723:0;reboot
+: 1672744778:0;sudo systemctl disable gdm.service
+: 1672744766:0;yay -Rns gdm
+: 1672744768:0;ls
+: 1672744775:0;Hyprland
+: 1672744810:0;sudo pacman -Rns gdm
+: 1672744819:0;sudo pacman --help
+: 1672744835:0;sudo pacman --files
+: 1672744848:0;paclist
+: 1672744851:0;sudo pacman -S paclist
+: 1672744874:0;pacman -Q | grep "gdm"
+: 1672744880:0;sudo pacman -Rns gdm-git
+: 1672744883:0;clear
+: 1672744884:0;pacman -Q | grep "gdm"
+: 1672744889:0;sudo pacman -Rns libgdm-git
+: 1672744891:0;clear
+: 1672744893:0;cd /tmp
+: 1672744893:0;clear
+: 1672744893:0;ls
+: 1672744898:0;cd
+: 1672744898:0;clear
+: 1672744904:0;sudo systemctl status gdm.service
+: 1672744923:0;sudo pacman -S gdm
+: 1672744935:0;clear
+: 1672744935:0;ls
+: 1672744936:0;clear
+: 1672744943:0;sudo nvim /etc/gdm/custom.conf
+: 1672745964:0;clear
+: 1672745973:0;sudo nvim /usr/share/xsessions
+: 1672745991:0;cd /usr/share/xsessions
+: 1672745992:0;clear
+: 1672745992:0;ls
+: 1672746001:0;sudo mv * *.bak
+: 1672746015:0;sudo mv gnome.desktop gnome.desktop.bak
+: 1672746021:0;mv gnome-xorg.desktop gnome-xorg.desktop.bak
+: 1672746026:0;sudo mv gnome-xorg.desktop gnome-xorg.desktop.bak
+: 1672746027:0;clear
+: 1672746027:0;cd
+: 1672746028:0;clear
+: 1672746032:0;killall Hyprland
+: 1672746036:0;exit
+: 1672746045:0;gnome-shell
+: 1672746048:0;clear
+: 1672746049:0;ls
+: 1672746049:0;clear
+: 1672746055:0;sudo systemctl status gdm.service
+: 1672746066:0;sudo systemctl enable gdm.service
+: 1672746067:0;clear
+: 1672746069:0;reboot
+: 1672746164:0;yay -S gdm-settings
+: 1672746183:0;clear
+: 1672746184:0;exit
+: 1672746233:0;hyprpicker
+: 1672746438:0;clear
+: 1672746441:0;mkdir configure-gdm
+: 1672746444:0;#!/bin/sh\
+gst=/usr/share/gnome-shell/gnome-shell-theme.gresource\
+workdir=${HOME}/shell-theme\
+\
+for r in `gresource list $gst`; do\
+	r=${r#\/org\/gnome\/shell/}\
+	if [Âƒ€! -d $workdir/${r%/*} ]; then\
+	  mkdir -p $workdir/${r%/*}\
+	fi\
+done\
+\
+for r in `gresource list $gst`; do\
+        gresource extract $gst $r >$workdir/${r#\/org\/gnome\/shell/}\
+done
+: 1672746449:0;nvim extract.sh
+: 1672746452:0;clear
+: 1672746454:0;chmod +x extract.sh
+: 1672746456:0;./extract.sh
+: 1672746461:0;nvim
+: 1672746491:0;clear
+: 1672746492:0;nvim
+: 1672746503:0;./extract.sh
+: 1672746507:0;nvim
+: 1672746517:0;clear
+: 1672746519:0;ls
+: 1672746526:0;mv extract.sh configure-gdm
+: 1672746527:0;cd configure-gdm
+: 1672746527:0;celar
+: 1672746528:0;clear
+: 1672746530:0;./extract.sh
+: 1672746531:0;clear
+: 1672746553:0;mv extract.sh ..
+: 1672746554:0;cd ..
+: 1672746555:0;rmdir configure-gdm
+: 1672746556:0;clear
+: 1672746558:0;./extract.sh
+: 1672746560:0;clear
+: 1672746561:0;nvim
+: 1672746567:0;./extract.sh
+: 1672746570:0;nvim
+: 1672746593:0;./extract.sh
+: 1672746597:0;mkdir gnome-shell
+: 1672746599:0;./extract.sh
+: 1672746604:0;nvim
+: 1672746619:0;./extract.sh
+: 1672746621:0;nvim
+: 1672746673:0;clear
+: 1672746674:0;cd ..
+: 1672746678:0;cd
+: 1672746679:0;ls
+: 1672746685:0;rm extract.sh; rmdir gnome-shell
+: 1672746686:0;clear
+: 1672746686:0;ls
+: 1672746688:0;celar
+: 1672746689:0;clear
+: 1672746690:0;exit
+: 1672746748:0;cd .config
+: 1672746749:0;clear
+: 1672746749:0;nvim
+: 1672746753:0;ls
+: 1672746756:0;cd gtk-3.0
+: 1672746757:0;ls
+: 1672746760:0;nvim settings.ini
+: 1672746778:0;clear
+: 1672746778:0;exit
+: 1672746807:0;ranger
+: 1672746855:0;exit
+: 1672746927:0;clear
+: 1672746928:0;exit
+: 1672747119:0;yay -Rns gdm-settings
+: 1672747125:0;clear
+: 1672747134:0;sudo pacman -S gdm-settings
+: 1672747136:0;clear
+: 1672747139:0;yay -S gdm-settings
+: 1672747182:0;yay -Rns gdm-settings
+: 1672747186:0;yay -S gdm-settings-git
+: 1672747200:0;clear
+: 1672747201:0;exit
+: 1672747236:0;reboot
+: 1672747405:0;sudo systemctl disable gdm.service
+: 1672747411:0;yay -S sddm-git
+: 1672747553:0;sudo systemctl enable sddm.service
+: 1672747554:0;clear
+: 1672747555:0;reboot
+: 1672747621:0;cd /etc/
+: 1672747622:0;clear
+: 1672747624:0;sudo nvim sddm.conf
+: 1672747653:0;sudo cp /usr/lib/sddm/sddm.conf.d/default.conf sddm.conf
+: 1672747654:0;clear
+: 1672747654:0;nvim
+: 1672747711:0;ls
+: 1672747713:0;cd sddm
+: 1672747714:0;ls
+: 1672747718:0;cd /usr/share
+: 1672747720:0;cd themes
+: 1672747720:0;ls
+: 1672747725:0;cd ..
+: 1672747726:0;cd sddm
+: 1672747726:0;ls
+: 1672747728:0;cd themes
+: 1672747728:0;ls
+: 1672747733:0;cd elarun
+: 1672747734:0;clear
+: 1672747734:0;ls
+: 1672747753:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/elarun
+: 1672747811:0;killall sddm
+: 1672747821:0;sudo killall sddm
+: 1672747830:0;pgrep sddm
+: 1672747840:0;pkill 2619
+: 1672747847:0;btop
+: 1672747865:0;killall sddm-greeter
+: 1672747865:0;clear
+: 1672747867:0;exit
+: 1672747876:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/maldives
+: 1672747891:0;killall sddm-greeter
+: 1672747891:0;exit
+: 1672747896:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/maya
+: 1672747910:0;killall sddm-greeter
+: 1672747911:0;clear
+: 1672747911:0;exit
+: 1672747914:0;clear
+: 1672747915:0;ls
+: 1672747918:0;cd ..
+: 1672747918:0;ls
+: 1672747920:0;cd maldives
+: 1672747921:0;clear
+: 1672747921:0;l
+: 1672747923:0;snvim
+: 1672747927:0;sudo nvim Main.qml
+: 1672747938:0;cd ..
+: 1672747946:0;cd catppuccin-mocha
+: 1672747947:0;clear
+: 1672747948:0;ls
+: 1672747949:0;clear
+: 1672747951:0;sudo nvim Main.qml
+: 1672748108:0;clear
+: 1672748117:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672748131:0;killall sddm-greeter
+: 1672748132:0;clear
+: 1672748133:0;exit
+: 1672748137:0;\
+sudo nvim Main.qml
+: 1672748249:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672748260:0;killall sddm-greeter
+: 1672748261:0;clear
+: 1672748262:0;exit
+: 1672748264:0;\
+sudo nvim Main.qml
+: 1672748369:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672748378:0;killall sddm-greeter
+: 1672748379:0;clear
+: 1672748379:0;exit
+: 1672748383:0;nvim
+: 1672748389:0;clear
+: 1672748397:0;sudo chown silva .
+: 1672748397:0;clear
+: 1672748399:0;nvim
+: 1672748506:0;sudo chown silva Main.qml
+: 1672748507:0;clear
+: 1672748507:0;nvim
+: 1672748644:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672748655:0;killall sddm-greeter
+: 1672748655:0;clear
+: 1672748735:0;killall sddm-greeter
+: 1672748725:10;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672748747:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672748756:0;killall sddm-greeter
+: 1672748757:0;clear
+: 1672748845:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672748852:0;killall sddm-greeter
+: 1672748883:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672748890:0;killall sddm-greeter
+: 1672748891:0;clear
+: 1672754212:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754224:0;killall sdd-greeter
+: 1672754227:0;killall sddm-greeter
+: 1672754256:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754262:0;killall sddm-greeter
+: 1672754375:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754383:0;killall sddm-greeter
+: 1672754410:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754429:0;killall sddm-greeter
+: 1672754431:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754470:0;killall sddm-greeter
+: 1672754472:0;hyprpicker
+: 1672754496:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754639:0;killall sddm-greeter
+: 1672754641:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754664:0;killall sddm-greeter
+: 1672754665:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754671:0;killall sddm-greeter
+: 1672754695:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754929:0;killall sddm-greeter
+: 1672754931:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754948:0;killall sddm-greeter
+: 1672754950:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672754966:0;killall sddm-greeter
+: 1672754968:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755286:0;killall sddm-greeter
+: 1672755288:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755384:0;killall sddm-greeter
+: 1672755385:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755419:0;killall sddm-greeter
+: 1672755425:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/maldives
+: 1672755439:0;killall sddm-greeter
+: 1672755445:0;clear
+: 1672755446:0;ls
+: 1672755462:0;cp ../maldives/Main.qml Main.qml
+: 1672755463:0;clear
+: 1672755464:0;nvim
+: 1672755660:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755666:0;killall sddm-greeter
+: 1672755694:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755700:0;killall sddm-greeter
+: 1672755743:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755748:0;killall sddm-greeter
+: 1672755836:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755842:0;killall sddm-greeter
+: 1672755881:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755885:0;killall sddm-greeter
+: 1672755895:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755901:0;killall sddm-greeter
+: 1672755928:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672755941:0;killall sddm-greeter
+: 1672756000:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672756009:0;killall sddm-greeter
+: 1672756020:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672756024:0;killall sddm-greeter
+: 1672756050:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672756103:0;killall sddm-greeter
+: 1672756104:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672756158:0;killall sddm-greeter
+: 1672756159:0;sddm-greeter --test-mode --theme /usr/share/sddm/themes/catppuccin-mocha
+: 1672756200:0;killall sddm-greeter
+: 1672756205:0;clear
+: 1672756214:0;sudo nvim /etc/sddm.conf
+: 1672756238:0;clear
+: 1672756239:0;reboot
+: 1672756289:0;killall gnome-shell
+: 1672756323:0;sudo nvim /etc/sddm.conf
+: 1672756456:0;sudo nvim /usr/share/sddm/themes/catppuccin-mocha/Main.qml
+: 1672756561:0;Hyprland
+: 1672756598:0;sudo systemctl disable sddm.service
+: 1672756603:0;clear
+: 1672756604:0;ls
+: 1672756605:0;clear
+: 1672756609:0;reboot
+: 1672756649:0;Hyprland
+: 1672756749:0;cd /tmp
+: 1672756751:0;gh repo clone sddm/sddm
+: 1672756755:0;cd sddm
+: 1672756755:0;clear
+: 1672756756:0;nvim
+: 1672756856:0;ls
+: 1672756860:0;cd src
+: 1672756860:0;ls
+: 1672756863:0;clear
+: 1672756864:0;nvim
+: 1672757037:0;clear
+: 1672757037:0;ls
+: 1672757038:0;clear
+: 1672757054:0;cd /usr/share/sddm/themes
+: 1672757054:0;clear
+: 1672757057:0;ls
+: 1672757058:0;cd catppuccin-mocha
+: 1672757059:0;clear
+: 1672757060:0;nvim
+: 1672757068:0;nvim ../:q
+: 1672757070:0;nvim
+: 1672765337:0;cd dotfiles
+: 1672765338:0;clear
+: 1672765338:0;ls
+: 1672765338:0;clear
+: 1672765341:0;dotdrop --help
+: 1672765345:0;dotdrop update
