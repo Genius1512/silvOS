@@ -41,18 +41,4 @@ ListView {
       loginFrame.focusPassword();
 	}
   }
-
-  Image {
-    id: selector
-    width: 32
-    height: 32
-    source: "Assets/Selector.png"
-    x: listView.currentItem.x + (listView.currentItem.width / 2) - 16
-    y: listView.currentItem.y + 30
-
-    Behavior on x {
-      NumberAnimation { duration: 350; easing.type: Easing.InOutQuad}
-    }
-  }
-
 }

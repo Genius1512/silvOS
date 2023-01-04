@@ -1,7 +1,10 @@
 {
     "layer": "top",
-    "position": "bottom",
-    "margin-bottom": 12,
+    "position": "top",
+    "margin-top": 12,
+    "margin-bottom": 0,
+    "margin-right": 12,
+    "margin-left": 12,
     "modules-left": [
         "cpu",
         "memory",
@@ -17,7 +20,7 @@
         "backlight",
         "clock",
         "battery",
-        "custom/suspend",
+        "custom/powermenu",
     ],
     "backlight": {
         "format": " {}%",
@@ -60,9 +63,9 @@
         "max-length": 20,
         "on-click": "playerctl play-pause",
     },
-    "custom/suspend": {
-        "format": "鈴 ",
-        "on-click": "systemctl suspend"
+    "custom/powermenu": {
+        "format": " ",
+        "on-click": "$HOME/.config/eww/current_monitor_hack.py; eww open powermenu --toggle"
     },
     "memory": {
         "format": " {}%",

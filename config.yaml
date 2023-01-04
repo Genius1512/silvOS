@@ -48,6 +48,9 @@ dotfiles:
   d_simple_catppuccin:
     src: usr/share/sddm/themes/simple_catppuccin
     dst: /usr/share/sddm/themes/simple_catppuccin
+  d_eww:
+    src: config/eww
+    dst: ~/.config/eww
 profiles:
   silva-arch:
     dotfiles:
@@ -66,3 +69,4 @@ profiles:
     - d_ranger
     - f_sddm.conf
     - d_simple_catppuccin
+    - d_eww

@@ -46,7 +46,7 @@ Item {
         width: parent.width
         height: parent.height
         text: name
-        color: "white"
+        color: "#1e1e2e"
         opacity: (delegateArea.containsMouse || sessionSelect.currentIndex == index) ? 1 : 0.3
         font {
           pointSize: (config.enableHDPI == "true") ? 6 : 12

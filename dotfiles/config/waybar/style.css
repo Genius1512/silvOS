@@ -7,7 +7,7 @@
 }
 
 window#waybar {
-	background: transparent;
+	background: #1e1e2c;
 }
 
 window#waybar.hidden {
@@ -15,20 +15,21 @@ window#waybar.hidden {
 }
 
 #window {
-	padding-left: 10px;
-	padding-right: 10px;
 	border-radius: 10px;
 	transition: none;
   color: transparent;
 	background: transparent;
+	margin-left: 6px;
+	margin-right: 6px;
 }
 
 #network {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
@@ -37,10 +38,11 @@ window#waybar.hidden {
 
 #custom-audio {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #1A1826;
@@ -49,10 +51,11 @@ window#waybar.hidden {
 
 #battery {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
@@ -83,10 +86,11 @@ window#waybar.hidden {
 
 #backlight {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
@@ -94,10 +98,11 @@ window#waybar.hidden {
 }
 #clock {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
@@ -106,9 +111,10 @@ window#waybar.hidden {
 
 #memory {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
-	margin-bottom: 0px;
+	
 	padding-right: 10px;
 	border-radius: 10px;
 	transition: none;
@@ -117,9 +123,10 @@ window#waybar.hidden {
 }
 #cpu {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
-	margin-bottom: 0px;
+	
 	padding-right: 10px;
 	border-radius: 10px;
 	transition: none;
@@ -129,9 +136,10 @@ window#waybar.hidden {
 
 #tray {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
-	margin-bottom: 0px;
+	
 	padding-right: 10px;
 	border-radius: 10px;
 	transition: none;
@@ -139,9 +147,10 @@ window#waybar.hidden {
 	background: #161320;
 }
 
-#custom-suspend {
+#custom-powermenu {
 	font-size: 24px;
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 5px;
@@ -154,11 +163,12 @@ window#waybar.hidden {
 #custom-power {
 	font-size: 20px;
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	margin-right: 8px;
 	padding-left: 10px;
 	padding-right: 5px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
@@ -167,10 +177,11 @@ window#waybar.hidden {
 
 #custom-wallpaper {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
@@ -179,10 +190,11 @@ window#waybar.hidden {
 
 #custom-updates {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
@@ -191,10 +203,11 @@ window#waybar.hidden {
 
 #custom-media {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
@@ -203,22 +216,16 @@ window#waybar.hidden {
 
 #workspaces button {
 	margin-top: 6px;
+	margin-bottom: 6px;
 	margin-left: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-bottom: 0px;
+	
 	border-radius: 10px;
 	color: #CDD6F4;
 	background: #1E1E2E;
 }
 
 #workspaces button.active {
-	margin-top: 6px;
-	margin-left: 8px;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-bottom: 0px;
-	border-radius: 10px;
-	color: #CDD6F4;
-	background: #1E1E2E;
+	border-color: #CDD6FA;
 }

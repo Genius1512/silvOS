@@ -13,7 +13,7 @@ Item {
   Text {
     id: usersName
 
-    color: "white"
+    color: "#1e1e2e"
     font {
       family: "FiraMono"
       pointSize: 20

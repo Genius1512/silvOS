@@ -128,7 +128,7 @@ Item {
     Text {
       id: usersName
 
-      color: "white"
+      color: "#1e1e2e"
       font {
         family: "FiraMono"
         pointSize: 20
@@ -142,7 +142,7 @@ Item {
     id: passwordStatus
 
     text: "Incorrect Password!"
-    color: "white"
+    color: "#1e1e2e"
     font {
       pointSize: 10
       family: "FiraMono"
@@ -195,7 +195,7 @@ Item {
         leftMargin: 15
       }
       text: "Password..."
-      color: "white"
+      color: "#1e1e2e"
       font {
         pointSize: 14
         family: "FiraMono"
@@ -217,7 +217,7 @@ Item {
         family: "FiraMono"
         letterSpacing: 2
       }
-      color: "white"
+      color: "#1e1e2e"
       echoMode:TextInput.Password
       clip: true
 
