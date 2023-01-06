@@ -1,5 +1,5 @@
 (defwindow powermenu
-:monitor 0
+:monitor 2
   :geometry (geometry :x "12px"
                       :y "20px"
                       :width "200px"
@@ -22,18 +22,37 @@
         ""
       )
     )
-    (box :orientation "horizontal"
-      (button :onclick "systemctl suspend"
-              :class "power-button"
-        "鈴"  
-      )
-      (button :onclick ""
-              :class "power-button"
-        "﫼"
-      )
+    (button :onclick "systemctl suspend"
+            :class "power-button"
+      "鈴"  
     )
   )
 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

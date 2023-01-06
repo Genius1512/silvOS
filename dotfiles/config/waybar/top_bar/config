@@ -65,7 +65,8 @@
     },
     "custom/powermenu": {
         "format": " ",
-        "on-click": "$HOME/.config/eww/powermenu/current_monitor_hack.py; eww open powermenu --toggle --config $HOME/.config/eww/powermenu"
+        "on-click": "$HOME/.config/eww/powermenu/current_monitor_hack.py; eww open powermenu --toggle --config $HOME/.config/eww/powermenu",
+        "tooltip": false
     },
     "memory": {
         "format": " {}%",
@@ -75,7 +76,8 @@
     "network": {
         "format-ethernet": "",
         "format-wifi": "  {essid}",
-        "tooltip": false
+        "tooltip": true,
+        "tooltip-format": "{ipaddr}"
     },
     "wlr/workspaces": {
         "format": "{icon}{name}",
