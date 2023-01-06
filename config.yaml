@@ -57,6 +57,9 @@ dotfiles:
   d_startpage:
     src: config/startpage
     dst: ~/.config/startpage
+  d_swaylock:
+    src: config/swaylock
+    dst: ~/.config/swaylock
 profiles:
   silva-arch:
     dotfiles:
@@ -78,3 +81,4 @@ profiles:
     - d_eww
     - d_cava
     - d_startpage
+    - d_swaylock
