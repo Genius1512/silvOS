@@ -1,0 +1,15 @@
+(defpoll ip_address_str :interval "10s"
+  `ip route get 1 | sed 's/^.*src //' | sed -r 's/.uid.*$.*//' | head -n 1`
+)
+
+(defwidget ip_address []
+  (box :class "widget"
+       :vexpand true
+       :hexpand true
+    (box :class "ip-box"
+      (label :class "ip"
+             :text "${ip_address_str}"
+      )
+    )
+  )
+)

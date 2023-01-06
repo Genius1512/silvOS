@@ -1,0 +1,26 @@
+(defwidget dashboard []
+  (box :class "dashboard"
+       :orientation "h"
+       :space-evenly false
+    (box :orientation "v"
+         :space-evenly false
+      (box :orientation "v"
+           :space-evenly true
+        (network)
+        (ip_address)
+      )
+      (player)
+    )
+    (box :orientation "v"
+      (box :orientation "v"
+        (box :orientation "h"
+          (volume)
+          (brightness)
+        )
+        (clock)
+      )
+      (power)
+    )
+    (applications)
+  )
+)

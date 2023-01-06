@@ -1,0 +1,27 @@
+(defwidget power []
+  (box :orientation "v"
+       :class "power-menu widget"
+       :vexpand true
+       :hexpand true
+    (box :orientation "h"
+      (button :onclick "poweroff"
+              :class "power-button button"
+        "⏻"  
+      )
+      (button :onclick "reboot"
+              :class "power-button button"
+        ""
+      )
+    )
+    (box :orientation "h"
+      (button :onclick "systemctl suspend"
+              :class "power-button button"
+        "鈴"  
+      )
+      (button :onclick ""
+              :class "power-button button"
+        "﫼"
+      )
+    )
+  )
+)

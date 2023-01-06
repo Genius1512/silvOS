@@ -1,0 +1,30 @@
+.button {
+  background-color: $base;
+  border: 1px solid $blue;
+  border-radius: 10px;
+  animation: hover-effect-reverse 0.1s linear 0s normal forwards;
+}
+
+.button:hover {
+  animation: hover-effect 0.1s linear 0s normal forwards;
+}
+
+@keyframes hover-effect {
+  0% {
+    box-shadow: none;
+  }
+
+  100% {
+    box-shadow: 0 0 10px 10px $blue;
+  }
+}
+
+@keyframes hover-effect-reverse {
+  0% {
+    box-shadow: 0 0 10px 10px $blue;
+  }
+
+  100% {
+    box-shadow: none;
+  }
+}

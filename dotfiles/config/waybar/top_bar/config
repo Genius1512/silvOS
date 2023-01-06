@@ -65,7 +65,7 @@
     },
     "custom/powermenu": {
         "format": " ",
-        "on-click": "$HOME/.config/eww/current_monitor_hack.py; eww open powermenu --toggle"
+        "on-click": "$HOME/.config/eww/powermenu/current_monitor_hack.py; eww open powermenu --toggle --config $HOME/.config/eww/powermenu"
     },
     "memory": {
         "format": " {}%",
@@ -90,8 +90,13 @@
         "spacing": 10
     },
     "custom/audio": {
-        "exec": "VOL=$(wpctl get-volume @DEFAULT_SINK@); echo ${VOL:10}",
-        "format": " {}%",
-        "interval": 5
+        "exec": "$HOME/.config/waybar/top_bar/scripts/audio.py",
+        "format": "{icon} {}%",
+        "return-type": "json",
+        "format-icons": {
+            "muted": "",
+            "non-muted": ""
+        },
+        "interval": 1
     }
 }

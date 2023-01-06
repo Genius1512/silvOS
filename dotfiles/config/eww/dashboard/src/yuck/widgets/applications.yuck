@@ -1,0 +1,46 @@
+(defwidget applications []
+  (box :class "widget"
+       :orientation "v"
+       :vexpand true
+    (button :class "app-button button"
+            :onclick "firefox"
+      (image :path "./assets/firefox.png"
+             :image-width 50
+             :image-height 50
+
+      )
+    )
+    (button :class "app-button button"
+            :onclick "kitty --hold ranger"
+      (image :path "./assets/folder.png"
+             :image-width 50
+             :image-height 50
+
+      )
+    )
+    (button :class "app-button button"
+            :onclick "firefox https://github.com"
+      (image :path "./assets/github.png"
+             :image-width 100
+             :image-height 100
+
+      )
+    )
+    (button :class "app-button button"
+            :onclick "firefox https://reddit.com"
+      (image :path "./assets/reddit.png"
+             :image-width 50
+             :image-height 50
+
+      )
+    )
+    (button :class "app-button button"
+            :onclick "firefox https://youtube.com"
+      (image :path "./assets/youtube.png"
+             :image-width 50
+             :image-height 50
+
+      )
+    )
+  )
+)

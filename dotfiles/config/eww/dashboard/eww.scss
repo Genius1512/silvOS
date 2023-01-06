@@ -1,0 +1,17 @@
+@import "src/scss/colors.scss";
+
+@import "src/scss/button.scss";
+@import "src/scss/widget.scss";
+@import "src/scss/widgets/applications.scss";
+@import "src/scss/widgets/brightness.scss";
+@import "src/scss/widgets/clock.scss";
+@import "src/scss/widgets/network.scss";
+@import "src/scss/widgets/player.scss";
+@import "src/scss/widgets/power.scss";
+@import "src/scss/widgets/volume.scss";
+@import "src/scss/window.scss";
+
+* {
+  all: unset;
+  font-family: FiraCode Nerd Font;
+}

@@ -1,0 +1,14 @@
+(defpoll time :interval "1s"
+              :initial-value: "Haha lol cannot get time"
+  "date +%H:%M:%S"
+)
+
+(defwidget clock []
+  (box :class "widget clock"
+       :vexpand true
+       :hexpand true
+       :width 350
+       :height 175
+    "${time}"
+  )
+)

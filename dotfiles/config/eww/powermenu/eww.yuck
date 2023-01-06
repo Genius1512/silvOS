@@ -14,22 +14,45 @@
     :class "power-menu"
     (box :orientation "horizontal"
       (button :onclick "poweroff"
+              :class "power-button"
         "⏻"  
       )
       (button :onclick "reboot"
+              :class "power-button"
         ""
       )
     )
     (box :orientation "horizontal"
       (button :onclick "systemctl suspend"
+              :class "power-button"
         "鈴"  
       )
       (button :onclick ""
+              :class "power-button"
         "﫼"
       )
     )
   )
 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

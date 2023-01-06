@@ -1,0 +1,17 @@
+(defpoll bright :interval "1s"
+                :initial "0"
+  "brightnessctl -m | awk -F, '{print substr($4, 0, length($4)-1)}' | tr -d '%'"
+)
+
+(defwidget brightness []
+  (box :class "widget"
+       :vexpand true
+       :hexpand true
+    (circular-progress :class "brightness"
+                       :value "${bright}"
+                       :thickness 12
+                       :start-at 75
+                       :clockwise true
+    )
+  )
+)

@@ -1,0 +1,22 @@
+(defpoll title :interval "1s"
+  `playerctl metadata title`
+)
+
+(defpoll art :interval "1s"
+  `playerctl metadata mpris:artUrl`
+)
+
+(defwidget player []
+  (box :class "widget"
+       :orientation "v"
+       :vexpand true
+       :hexpand true
+    (box :class "art"
+         :style "background-image: url('${art}')"
+    )
+    (label :text "${title}"
+           :class "player-text"
+           :limit-width 30
+    )
+  )
+)

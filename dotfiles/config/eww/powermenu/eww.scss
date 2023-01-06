@@ -11,7 +11,7 @@ window {
   border: 1px solid $blue;
 }
 
-button {
+.power-button {
   background-color: $background;
   border: 1px solid $blue;
   border-radius: 10px;
@@ -20,7 +20,7 @@ button {
   animation: hover-effect-reverse 0.1s linear 0s normal forwards;
 }
 
-button:hover {
+.power-button:hover {
   animation: hover-effect 0.1s linear 0s normal forwards;
 }
 

@@ -1,0 +1,16 @@
+(defpoll network_name :interval "10s"
+  `nmcli -f NAME,TYPE,DEVICE c show --active | awk '$2 == "wifi" { print $1 }' `
+)
+
+
+(defwidget network []
+  (box :class "widget"
+       :vexpand true
+       :hexpand true
+    (box :class "network-box"
+      (label :class "network-name"
+             :text "${network_name}"
+      )
+    )
+  )
+)

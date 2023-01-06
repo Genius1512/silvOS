@@ -51,6 +51,9 @@ dotfiles:
   d_eww:
     src: config/eww
     dst: ~/.config/eww
+  d_cava:
+    src: config/cava
+    dst: ~/.config/cava
 profiles:
   silva-arch:
     dotfiles:
@@ -70,3 +73,4 @@ profiles:
     - f_sddm.conf
     - d_simple_catppuccin
     - d_eww
+    - d_cava

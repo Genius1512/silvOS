@@ -1,0 +1,17 @@
+(defpoll volume :interval "1s"
+                :initial "0"
+  `VOL=$(wpctl get-volume @DEFAULT_SINK@); echo \${VOL:10}`
+)
+
+(defwidget volume []
+  (box :class "widget"
+       :vexpand true
+       :hexpand true
+    (circular-progress :class "volume"
+                       :value `${volume}`
+                       :thickness 12
+                       :start-at 75
+                       :clockwise true
+    )
+  )
+)
