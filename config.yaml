@@ -54,6 +54,9 @@ dotfiles:
   d_cava:
     src: config/cava
     dst: ~/.config/cava
+  d_startpage:
+    src: config/startpage
+    dst: ~/.config/startpage
 profiles:
   silva-arch:
     dotfiles:
@@ -74,3 +77,4 @@ profiles:
     - d_simple_catppuccin
     - d_eww
     - d_cava
+    - d_startpage
