@@ -10,7 +10,6 @@
         "memory",
         "custom/media",
         "network",
-        "tray"
     ],
     "modules-center": [
         "wlr/workspaces"
@@ -30,9 +29,9 @@
         "tooltip": false
     },
     "battery": {
-        "format": "{icon}  {capacity}%",
-        "format-alt": "{time} {icon}",
-        "format-charging": " {capacity}%",
+        "format": "{capacity}% {icon} ",
+        "format-alt": "{time} {icon} ",
+        "format-charging": "{capacity}%  ",
         "format-icons": [
             "",
             "",
@@ -40,7 +39,7 @@
             "",
             ""
         ],
-        "format-plugged": " {capacity}%",
+        "format-plugged": "{capacity}%  ",
         "states": {
             "critical": 20,
             "good": 95,

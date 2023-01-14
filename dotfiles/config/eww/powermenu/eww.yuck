@@ -1,5 +1,5 @@
 (defwindow powermenu
-:monitor 2
+:monitor 0
   :geometry (geometry :x "12px"
                       :y "20px"
                       :width "200px"
@@ -22,12 +22,57 @@
         ""
       )
     )
-    (button :onclick "systemctl suspend"
+    (button :onclick "swaylock & systemctl suspend"
             :class "power-button"
       "鈴"  
     )
   )
 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
